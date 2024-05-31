@@ -1,38 +1,61 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+name: Bug Report
+description: A report about an issue, crash or similar.
+title: "[Issue]: "
+labels: ["issue"]
+assignees:
+  - Gbergz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A short explanation of what happened.
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: packversion
+    attributes:
+      label: Pack Version
+      description: Put the pack version you are currently on here.
+      value: "Version: "
+  - type: textarea
+    id: repro
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the issue/error/crash, (steps can be edited)..
+      value: "1."
+  - type: checkboxes
+    id: addedmods
+    attributes:
+      label: Are you using OptiFine or Oculus?
+      options:
+        - label: Using OptiFine
+        - label: Using Oculus
+        - label: No. None of them. Unmodified.
+    validations:
+      required: true
+  - type: checkboxes
+    id: server
+    attributes:
+      label: Are you on a Server?
+      options:
+        - label: Yes.
+        - label: No.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output / crash report.
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: textarea
+    id: anythingelse
+    attributes:
+      label: Anything else to add?
+      description: Optional.
