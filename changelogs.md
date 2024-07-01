@@ -8,7 +8,7 @@
 **Also remember to always backup your world(s) before updating!**
 
 
-**Added**
+### **Added**
 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix)
 - [Dark Mode Everywhere](https://curseforge.com/minecraft/mc-mods/dark-mode-everywhere)
 - [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
@@ -18,13 +18,13 @@
 - [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)
 
 
-**Removed**
+### **Removed**
 - [Hunters Return](https://curseforge.com/minecraft/mc-mods/huntersreturn) <br />
   ^ (**Due to worldgen crashes**.) <br />
   ^ (**Removed until it's possible to update NeoForge past 0.40**.)
 
 
-**Notable Changes**
+### **Notable Changes**
 - **Removed unnecessary blocks** from the **Overworld Mining Dimension** such as **Gravel** & **Clay**.
 - The "**Infinity**" Enchantment **no longer requires you** having **an arrow** in **your inventory**.
 - **There's** now **no longer** a **Grass Block layer** ontop of the **Overworld Mining Dimension**.
@@ -41,31 +41,31 @@
 - (**!**) **Changes** in **mod updates not noted here**.
 
 
-**Notable Fixes**
+### **Notable Fixes**
 - **Market block** not **dropping itself** when **harvested** is now **fixed**.
 - "**Fixed**" a **worldgen crash** related to "**ArrowEntity**".
 - **Armadillos not spawning** is now **fixed**.
 - (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
 
 
-**Quests**
+### **Quests**
 - **Adjusted some XP rewards** in the **@Iron Galore chapter**.
 - **Minor fixes**.
 
 
-**Updated**
+### **Updated**
 - (**!**) All **mods** that **could** be **updated** have been **updated**.
 
 
-**Current NeoForge Version**
+### **Current NeoForge Version**
 - 21.0.30-beta
 
 
-**Notes**
+### **Notes**
 - Expect **breaking updates**, **weirdness**, **crashes** & **issues**, **bugs**, **recipe conflicts** & **overall instability**.
 
 
-**Reporting Issues**
+### **Reporting Issues**
 - Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
 
 
