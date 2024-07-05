@@ -32,11 +32,10 @@ body:
   - type: checkboxes
     id: addedmods
     attributes:
-      label: Are you using OptiFine or Oculus?
+      label: Are you using Oculus?
       options:
-        - label: Using OptiFine
-        - label: Using Oculus
-        - label: No. None of them. Unmodified.
+        - label: I'm Using Oculus
+        - label: No. Unmodified.
     validations:
       required: true
   - type: checkboxes
