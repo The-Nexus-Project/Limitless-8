@@ -1,3 +1,71 @@
+<h1>v0.5.0</h1>
+
+> ### **A wave of new mods, quite a few changes + fixes & more!**
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Embeddium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra)
+- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
+- [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)
+- [Modern Dynamics](https://www.curseforge.com/minecraft/mc-mods/modern-dynamics)
+- [Pipe Connector](https://www.curseforge.com/minecraft/mc-mods/pipe-connector)
+- [Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- **Piglin Brutes no longer spawn** with the **Buckler** to **prevent crashes**, **for now**. <br />
+  ^ (**Existing Brutes with Buckler(s) can still cause crashes**.)
+- **There's now a lot** of **new @Embeddium Video Settings available**.
+- A **backup** of your **world** is now **made every 30 minutes**.
+- **Made structure generation slightly more common**.
+- **Disabled** the **Tutorial** & **Recipe toasts**.
+- **Restored** the **classic Creeper model**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+### **Notable Fixes**
+- A **short lag spike** that **could occur** when **joining a world / server** or **swapping dimensions** is now **fixed** or atleast **heavily minimized**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+### **Current NeoForge Version**
+- 21.0.30-beta
+
+
+### **Notes**
+- Expect **breaking updates**, **weirdness**, **crashes** & **issues**, **bugs**, **recipe conflicts** & **overall instability**.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.4.0</h1>
 
 > ### **New mods. Lots of changes, fixes & more!**
