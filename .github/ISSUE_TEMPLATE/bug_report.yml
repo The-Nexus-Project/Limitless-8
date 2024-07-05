@@ -34,8 +34,8 @@ body:
     attributes:
       label: Are you using Oculus?
       options:
-        - label: I'm Using Oculus
-        - label: No. Unmodified.
+        - label: Yes. I am using Oculus.
+        - label: No. Unmodified instance.
     validations:
       required: true
   - type: checkboxes
