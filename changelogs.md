@@ -1,3 +1,77 @@
+<h1>v0.6.0</h1>
+
+> ### Chipped, ExtendedAE, Functional Storage. New Quests, changes + fixes & more!
+
+Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!
+
+Please always do a fresh install when updating the pack between versions to avoid issues! <br />
+Also remember to always backup your world(s) before updating!
+
+
+### Added
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+- [ExtendedAE](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider)
+- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
+- [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
+- [GPU Memory Leak Fix](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
+- [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+- [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+- [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
+
+
+### Removed
+- No mods removed.
+
+
+### Notable Changes
+- You can now have a view distance set farther than what the servers own view distance is at. <br />
+  ^ (Note: This is per session, so if you restart you need to explore areas again to see further.)
+- Structures from Vanilla Minecraft have been reverted to default generation values. <br />
+  ^ (Meaning: Vanilla Structures are now more common, same values as in Vanilla.)
+- Blacklisted some invalid items from the Loot Bundle loot table.
+- Made overall structure generation slightly more common, again.
+- Restored the original @Mekanism Uranium Ore texture. 
+- (!) Changes in mod updates not noted here.
+
+
+### Notable Fixes
+- Market block not dropping itself when harvested is now fixed. (For real now).
+- (!) Some fixes not noted in mod updates, as always.
+
+
+### Quests
+- Added missing reward for the "Good as New" quest in the Husbandry chapter.
+- Re-added chapter: @Aquaculture. <br />
+  ^ (Chapter has been edited and improved.)
+
+
+### Updated
+- (!) All mods that could be updated have been updated.
+
+
+### Current NeoForge Version
+- 21.0.30-beta
+
+
+### Notes
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### Reporting Issues
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+Code: Gbergz | [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.5.0</h1>
 
 > ### **A wave of new mods, quite a few changes + fixes & more!**
