@@ -1,3 +1,93 @@
+<h1>v0.7.0</h1>
+
+> ### Lots and lots of mod additions. New Quests. Changes + fixes & more!
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### Added
+- [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
+- [Apothic Spawners](https://www.curseforge.com/minecraft/mc-mods/apothic-spawners)
+- [Better Climbing](https://www.curseforge.com/minecraft/mc-mods/better-climbing)
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
+- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
+- [Framed Blocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)
+- [Hunter's Return](https://www.curseforge.com/minecraft/mc-mods/huntersreturn)
+- [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
+- [Just Enough Archaeology](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology)
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+- [Loot Integrations](https://www.curseforge.com/minecraft/loot-integrations)
+- [Moog's Soaring Structures](https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures)
+- [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productive-bees)
+- [Productive Trees](https://www.curseforge.com/minecraft/mc-mods/productive-trees)
+- [Shulker Box Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
+- [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [Useful Slime](https://www.curseforge.com/minecraft/mc-mods/useful-slime)
+
+
+### Removed
+- [InvTweaks Refoxed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed) <br />
+  ^ (Replaced by Inventory Profiles Next.)
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) <br />
+  ^ (Due to bugs and issues.)
+
+
+### Notable Changes
+- Re-added the "TNP Sword" for use in the Starter Kit quest. 
+- You can now climb up and down ladders/vines faster.
+- Added Compressed Variants of common blocks.
+- (!) Changes in mod updates not noted here.
+
+
+### Notable Fixes
+- The HUD and other elements(except hotbar) going completely invisible when holding down TAB is now fixed.
+- Servers added to the in-game multiplayer list not pinging or showing the MOTD is now fixed.
+- @JourneyMap Waystone waypoints disappearing when switching dimensions is now fixed.
+- Crashes with Tools from various mods like @Just Dire Things is now fixed.
+- Tooltips being rendered behind the GUI in @FTB Quests is now fixed.
+- (!) Some fixes not noted in mod updates, as always.
+
+
+### Quests
+- Fixed two items in the Starter Kit quest that could not be claimed by more than 1 player per-team.
+- The "Crafting Table" quest now triggers with any type of Crafting Table.
+- A "Backpack" has been added to the Starter Kit quest.
+- Re-added a chapter: @Repurposed Structures.
+- Re-added a chapter: @Productive Trees.
+- Minor fixes.
+
+
+### Updated
+- Updated NeoForge from 21.0.30 to 21.0.65.
+- (!) All mods that could be updated have been updated.
+
+
+### Current NeoForge Version
+- 21.0.65-beta
+
+
+### Notes
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### Reporting Issues
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+Code: Gbergz | [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.6.0</h1>
 
 > ### Chipped, ExtendedAE, Functional Storage. New Quests, changes + fixes & more!
