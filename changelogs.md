@@ -1,3 +1,74 @@
+<h1>v0.8.0</h1>
+
+> ### Another wave of new mods. Many fixes + changes & more!
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
+- [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+- [Factory Blocks](https://www.curseforge.com/minecraft/mc-mods/factory-blocks)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Gravitational Modulating Additional Unit](https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit)
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+
+
+### **Removed**
+- [Tiny Item Animations](https://www.curseforge.com/minecraft/tiny-item-animations) <br />
+  ^ (Mod is removed from CurseForge.)
+
+
+### **Notable Changes**
+- Adjusted generation values for various ores in the Overworld Mining Dimension. <br />
+  ^ (Note: It is recommended to reset all Mining Dimensions this update!)
+- Blacklisted various GUIs to not have sorting buttons.
+- Added missing ores to the Mining Dimensions.
+- Performance improvements around crafting.
+- (!) Changes in mod updates not noted here.
+
+
+### **Notable Fixes**
+- Waystones not being interactable in claimed chunks is now fixed.
+- @Relics being unable to gain leveling points is now fixed.
+- Fixed being unable to join servers due to a mod "missing".
+- Fixed Sorting Buttons overlapping in @Bank Storage GUIs.
+- The command '/reload' causing errors is now fixed.
+- (!) Some fixes not noted in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.0.65-beta
+
+
+### **Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.7.0</h1>
 
 > ### Lots and lots of mod additions. New Quests. Changes + fixes & more!
