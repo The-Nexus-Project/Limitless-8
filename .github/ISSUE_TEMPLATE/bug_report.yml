@@ -51,7 +51,7 @@ body:
     id: logs
     attributes:
       label: whole latest.log output & crash report.
-      description: Please copy and paste any relevant log output to a paste site like https://gist.github.com/ or similar.
+      description: Please copy and paste the whole latest.log output & crash report to a paste site like https://gist.github.com/ or similar.
       render: shell
   - type: textarea
     id: anythingelse
