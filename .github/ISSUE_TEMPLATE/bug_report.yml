@@ -50,8 +50,8 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output / crash report.
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: whole latest.log output & crash report.
+      description: Please copy and paste any relevant log output to a paste site like https://gist.github.com/ or similar.
       render: shell
   - type: textarea
     id: anythingelse
