@@ -1,3 +1,91 @@
+<h1>v0.10.0</h1>
+
+> ### Lots of new mods. New Biomes. New Quests. QoL, changes & fixes + more! <br />
+
+### NOTICE: A new world is recommended with this update due to the newly added biomes. <br />
+### Do note that existing worlds will still work.
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+- [Ars Ocultas](https://www.curseforge.com/minecraft/mc-mods/ars-ocultas)
+- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod)
+- [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
+- [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting)
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+- [Durability Tooltip](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)
+- [Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting)
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [Neruina](https://www.curseforge.com/minecraft/mc-mods/neruina)
+- [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
+- [Tank Storage](https://www.curseforge.com/minecraft/mc-mods/tank-storage)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Potential crashing issues like "ticking entity" will now kill that entity or kick the player instead of crashing.
+- When crouching you can now reacharound corners/edges to place blocks. (Like console bridging).
+- You can now see durability of tools/weapons without advanced tooltips enabled.
+- You're now protected from damage during login, dimension change, respawn etc.
+- Slightly increased Coal Ore generation in the Mining Dimension.
+- Angel Ring "wings render" can now be toggled in Curios.
+- Added newest Official Server to the multiplayer menu.
+- Blacklisted various GUIs to not have sorting buttons.
+- Lowered the generation rate of ground foliage a bit.
+- You now spawn with the Quest Book on new worlds.
+- Added missing Saplings & Seeds to @FfB Market.
+- Modified the Loot Bundle & Fragment textures.
+- New biomes provided by @Regions Unexplored.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed Calculation Press being uncraftable in the Inscriber.
+- Fixed recipe conflicts.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Re-added a chapter: @Ars Nouveau.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.0.97-beta
+
+
+### **Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.9.0</h1>
 
 > ### Large Update! Lots of mods added, some removed. QoL, changes & fixes + more!
