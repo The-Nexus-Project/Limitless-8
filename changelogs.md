@@ -11,7 +11,6 @@
 ### **Added**
 - [Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)
-- [Brutal Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
 - [Cardiac](https://www.curseforge.com/minecraft/mc-mods/cardiac)
 - [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 - [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village)
@@ -39,7 +38,8 @@
 
 
 ### **Removed**
-- No mods removed.
+- [Brutal Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon) <br />
+  ^ (Removed in the "0.11.0a" update.)
 
 
 ### **Notable Changes**
