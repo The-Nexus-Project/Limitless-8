@@ -1,4 +1,4 @@
-<h1>v0.11.0</h1>
+<h1>v0.11.0a</h1>
 
 > ### Big Update! Lots of new mods, many changes including QoL, fixes & more! <br />
 
