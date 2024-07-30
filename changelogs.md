@@ -1,3 +1,104 @@
+<h1>v0.11.0</h1>
+
+> ### Big Update! Lots of new mods, many changes including QoL, fixes & more! <br />
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
+- [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)
+- [Brutal Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
+- [Cardiac](https://www.curseforge.com/minecraft/mc-mods/cardiac)
+- [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+- [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village)
+- [Colorful Hearts Mod](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts)
+- [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
+- [Entangled](https://www.curseforge.com/minecraft/mc-mods/entangled)
+- [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare)
+- [Everlasting Abilities](https://www.curseforge.com/minecraft/mc-mods/everlastingabilities)
+- [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+- [Fish of Thieves](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)
+- [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
+- [Formations Nether](https://www.curseforge.com/minecraft/mc-mods/formations-nether)
+- [Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld)
+- [Instrumentus](https://www.curseforge.com/minecraft/mc-mods/instrumentus)
+- [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
+- [Jonn's Trophies](https://www.curseforge.com/minecraft/mc-mods/jonns-trophies)
+- [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Repeatable Trial Vaults](https://www.curseforge.com/minecraft/mc-mods/repeatable-trial-vaults)
+- [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets)
+- [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+- [Useful Slime](https://www.curseforge.com/minecraft/mc-mods/useful-slime)
+- [Wireless Chargers](https://www.curseforge.com/minecraft/mc-mods/wireless-chargers)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- There's now a small chance that a Trophy drops from Mobs, Players & Bosses.
+- You can now gain back some health from "life orbs" when killing mobs. <br />
+  ^ (Think regular experience orb, but instead gain some health.) <br />
+  ^ (Life orbs only stick around for 10 seconds. Then despawns.)
+- Hearts above 20 health are now displayed in different colors.
+- The advancement "toast" is now improved and better looking.
+- Default tooltip border is now orange to fit the pack logo.
+- You can now repeat Trial Vaults by consuming another key.
+- Blacklisted even more GUIs to not have sorting buttons.
+- Added Coal & Charcoal "fragments" that smelts 1 item.
+- You can now compare items by holding shift over them.
+- New compact variants of villages can now generate.
+- Player Heads now appear next to chat messages.
+- Most tooltips are now more fancy looking.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Crashes when shift Clicking / Dragging items from Crafting Stations are now fixed.
+- An issue that caused any item to be used as fuel is now fixed.
+- Any type of fuel only smelting 0,5 items is now fixed.
+- Fixed various recipes having empty tag as ingredient.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from 21.0.97 to 21.0.139.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.0.139-beta
+
+
+### **Notes**
+- Editing most mod configs in-game will result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.10.0</h1>
 
 > ### Lots of new mods. New Biomes. New Quests. QoL, changes & fixes + more! <br />
