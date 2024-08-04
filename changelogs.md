@@ -1,3 +1,92 @@
+<h1>v0.12.0</h1>
+
+> ### Lots of new mods, new foods, changes, fixes, QoL & more! <br />
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
+- [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)
+- [Functional Armor Trim](https://www.curseforge.com/minecraft/mc-mods/functional-armor-trim)
+- [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [Monster Plus](https://www.curseforge.com/minecraft/mc-mods/monster-plus)
+- [Potion Bundles](https://www.curseforge.com/minecraft/mc-mods/potion-bundles)
+- [Quarry Plus](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)
+- [Responsive Shields](https://www.curseforge.com/minecraft/mc-mods/responsive-shields)
+- [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard)
+- [Super Factory Manager (SFM)](https://www.curseforge.com/minecraft/mc-mods/super-factory-manager)
+
+
+### **Removed**
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+- [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+- [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans) <br />
+  ^ (All above causes crashes. Will be re-added once fixed.)
+
+
+### **Notable Changes**
+- Loot Containers found around the world (where supported) are now Lootr (per player loot).
+- Armor Trims now gives unique buffs depending on the material used.
+- Added @Forbidden and Arcanus saplings to the @FfB Market.
+- Shields are now more responsive, no hidden 5 tick delay.
+- Cave Creeper Spawn Egg can now be applied to spawners.
+- Screenshots are now automatically copied to clipboard.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A small issue where grass blocks would generated on top of each other is now fixed.
+- Movement keybindings being unable to be binded to another key is now fixed.
+- @Gravestone Mod errors when stopping servers are now fixed.
+- Subtitles having a funky shadow overlay is now fixed.
+- The mana bar from @Ars Nouveau missing is now fixed.
+- Crashes when editing configs in-game is now fixed.
+- The Shady Wizard causing crashes has been fixed.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added new description for the "Crafting a New Look" vanilla quest.
+- Re-added a chapter: @Artifacts.
+- Minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from 21.0.139-beta to 21.0.148.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.0.148
+
+
+### **Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.11.0a</h1>
 
 > ### Big Update! Lots of new mods, many changes including QoL, fixes & more! <br />
