@@ -1,3 +1,77 @@
+<h1>v0.13.0</h1>
+
+> ### New mods, changes, fixes & more! <br />
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Apothic Enchanting](https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting)
+- [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/glassential-renewed)
+- [Glassential Renewed](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
+- [Simply Backpacks](https://www.curseforge.com/minecraft/mc-mods/simply-backpacks)
+- [Solar Flux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)
+- [Suggestion Provider Fix](https://www.curseforge.com/minecraft/mc-mods/suggestion-provider-fix)
+- [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Command suggestions now auto-completes resource locations for all mod namespaces.
+- Removed recipes & hid all "@Bags of Holding" in EMI. (Mod is pending deletion).
+- Life Orbs can now be picked up even at full health.
+- New main menu slideshow images.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Anvils not being harvestable with the correct tool is now fixed.
+- Waystones should now be interactable in claimed chunks.
+- Fixed some structure generation overlap.
+- Fixed a few recipe conflicts.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Swapped out "Bag Of Holding" in the Welcome Kit for "Uncommon Backpack".
+- Removed the "Accumulation Press" from "The Five Presses" quest.
+- Renamed "The Five Presses" quest to "The Four Presses".
+- Added 2 new quests to the @Artifacts chapter.
+
+
+### **Updated**
+- Updated NeoForge from 21.0.148 to 21.0.167.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.0.167
+
+
+### **Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.12.0</h1>
 
 > ### Lots of new mods, new foods, changes, fixes, QoL & more! <br />
