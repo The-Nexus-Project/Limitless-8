@@ -1,3 +1,92 @@
+<h1>v0.14.0</h1>
+
+> ### New Dimension, New Quests, lots of new mods, changes, fixes & more! <br />
+
+**Note: This update requires a fresh install due to updating to Minecraft 1.21.1!** <br />
+**Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common!**
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station)
+- [Block Prints](https://www.curseforge.com/minecraft/mc-mods/block-prints)
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+- [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [Diagonal Fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
+- [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls)
+- [Ender's Delight](https://www.curseforge.com/minecraft/mc-mods/enders-delight)
+- [Extra Delight](https://www.curseforge.com/minecraft/mc-mods/extradelight)
+- [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
+- [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch-forge)
+- [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
+- [Variants & Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures)
+- [Villages & Pillages](https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages)
+- [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
+
+
+### **Removed**
+- [Bag Of Holding](https://www.curseforge.com/minecraft/mc-mods/bag-of-holding-forge)
+- [Iron Ender Chests](https://www.curseforge.com/minecraft/mc-mods/iron-ender-chests) <br />
+  ^ (Removed due to crashes.)
+
+
+### **Notable Changes**
+- The Official Server Menu "Back to" button now goes back to Server List instead of Main Menu.
+- Various blocks & items from @Just Dire Things can now drop from Loot Bundles again.
+- Removed recipes & hid all "@Simply Backpacks" in EMI. (Mod is pending deletion).
+- Blacklisted more GUIs to not have sorting buttons.
+- New @Journey Map waypoint manager.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed items & blocks from @Glassentials not being craftable.
+- Fixed the LAN Server Options button location.
+- Fixed recipe conflicts.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Swapped out "Uncommon Backpack" in the Welcome Kit for "Backpack".
+- Added 2 new quests to the @Artifacts chapter.
+- Re-added a chapter: @Sophisticated Series.
+
+
+### **Updated**
+- Updated to Minecraft 1.21.1
+- Updated NeoForge from 21.0.167 to 21.1.12.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.12
+
+
+### **Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.13.0</h1>
 
 > ### New mods, changes, fixes & more! <br />
