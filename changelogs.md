@@ -1,3 +1,86 @@
+<h1>v0.15.0</h1>
+
+> ### Sushi? Mystical Agriculture, new quests, changes, fixes & more! <br />
+
+**Note: Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common.**
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AE2 JEI Integration](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration)
+- [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)
+- [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+- [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+- [Pottery (Additional Pots)](https://www.curseforge.com/minecraft/mc-mods/pottery-additional-pots)
+- [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless)
+- [Separated Leaves](https://www.curseforge.com/minecraft/mc-mods/separatedleaves)
+- [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
+- [Sushi Go Crafting](https://www.curseforge.com/minecraft/mc-mods/sushigocrafting)
+- [Sussy Sniffers](https://www.curseforge.com/minecraft/mc-mods/sussy-sniffers)
+- [Tesseract](https://www.curseforge.com/minecraft/mc-mods/tesseract)
+- [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+
+
+### **Removed**
+- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) <br />
+  ^ (Note: Removed due to the mod malfunctioning in FTB Quests above 368 mods.)
+
+
+### **Notable Changes**
+- Removed upgrades from @Just Dire Things in the Loot Bundles loot table.
+- Adjusted the location of the @FTB Library sidebar buttons.
+- Blacklisted a few more GUIs to not include sort buttons.
+- New unique recipe for @Tesseract.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Items in Gravestone being lost when breaking the grave and dying at the same time is now fixed.
+- Fixed Main Menu, Armor Bar, Health Bar & other invalid elements being affected by Dark Mode.
+- The XP Block from @Global XP not displaying stored XP in Jade or above block is now fixed.
+- Crashes related Cabinets and Drawers from @Macaw'a Furniture are now fixed.
+- Fixed recipe conflicts.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Re-added and reworked the @Mystical Agriculture chapter.
+- Added 5 new quests to the @AE2 chapter.
+- Some fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.12 to 21.1.23.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.23
+
+
+### **Notes**
+- Some blocks from mods like @Trash Cans & @Item Collectors might not show in JEI, but recipes do exist!
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.14.0</h1>
 
 > ### New Dimension, New Quests, lots of new mods, changes, fixes & more! <br />
