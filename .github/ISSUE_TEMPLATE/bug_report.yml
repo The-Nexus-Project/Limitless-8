@@ -32,10 +32,10 @@ body:
   - type: checkboxes
     id: addedmods
     attributes:
-      label: Are you using Oculus?
+      label: Are you using Oculus/Iris?
       options:
-        - label: Yes. I am using Oculus.
-        - label: No. Unmodified instance.
+        - label: Yes. I am using Oculus/Iris.
+        - label: No. My instance is unmodified, stock install.
     validations:
       required: true
   - type: checkboxes
