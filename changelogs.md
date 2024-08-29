@@ -1,3 +1,107 @@
+<h1>v0.16.0</h1>
+
+> ### Big Update! New mods, new quests, quality of life, lots of changes & fixes + more! <br />
+
+**Important:** <br />
+**-** **Current @Gravestone mod has been changed this update! Be sure to recover any graves before updating!** <br />
+**-** **@Simply Backpacks is fully removed this update, be sure to empty them out before updating!** <br />
+**-** **Pack is in its early days. Various issues, recipe conflicts and crashes etc are more common.**
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures)
+- [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
+- [Pickle Tweaks](https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks)
+- [When Dungeons Arise - Seven Seas](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas)
+- [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger)
+
+
+### **Removed**
+- [Gravestone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) <br />
+  ^ (Replaced by: [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger).)
+- [Simply Backpacks](https://www.curseforge.com/minecraft/mc-mods/simply-backpacks) <br />
+  ^ (NOTE: Be sure to empty out yours before before updating!)
+
+
+### **Notable Changes**
+- Anything equipped in @Curios will now be automatically re-equipped when recovering the grave.
+- Your grave will now glow through walls when near it, allowing you to more easily locate it.
+- Death waypoints are now automatically removed when you get near it, (2 blocks).
+- Buffed the generation rate of Ancient Debris in the Nether Mining Dimension.
+- Enabled double-clicking JEI search bar to highlight items in containers.
+- Disabled the chance for mobs to spawn with a jukebox playing music.
+- Added a recipe to convert @Regions Unexplored Dirt to vanilla Dirt.
+- Blacklisted some invalid items from the Loot Bundle loot table.
+- You can now grid-repair tools, though this is more expensive.
+- Chorus Fruit no longer combines into a stack on the ground.
+- Disabled spawning animation for various mob types.
+- Blacklisted more GUIs to not include sort buttons.
+- Lowered the operation cost for the Digital Miner.
+- Ability Totems on mobs are now more common.
+- Added fancy tooltips support to more items.
+- Added Avocado Sapling to the @FfB Market.
+- Lowered cooldown for the /back command.
+- Unified some materials.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed many items & blocks missing in @JEI (Examples: @Tesseract, @Trash Cans & @Item Collectors.)
+- A "Rendering entity in world" crash related to @Mahou Tsukai & @BagusLib is now fixed.
+- Netherite Smithing recipes being displayed incorrectly in @JEI is now fixed.
+- Crashing issues & performance issues related to @Block Prints is now fixed.
+- Durability & model issues on the @Mystical Agriculture armor is now fixed.
+- Fixed the Server Files MOTD having the wrong pack name. (Whoops!)
+- Fixed Essence Vessel & Soul Glass being uncraftable.
+- The @MA Soul Extractor not working is now fixed.
+- Fixed Silicon Essence having no use.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Re-added the @Productive Bees chapter and refactored it a bit.
+- Added a new quest to the Adventure chapter.
+- Added a note to the @Bank Storage chapter.
+- Added Golden Carrots as Emergency Food. <br />
+  ^ (Wait 3 minutes for x2 Golden Carrot.)
+- Hidden quests are now hidden again.
+- Fixed some invalid rewards.
+- Fixed a typo.
+- Other minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.23 to 21.1.31.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.31
+
+
+### **Additional Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.15.0</h1>
 
 > ### Sushi? Mystical Agriculture, new quests, changes, fixes & more! <br />
