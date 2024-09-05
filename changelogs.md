@@ -1,3 +1,75 @@
+<h1>v0.17.0</h1>
+
+> ### New mods, various fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Additions](https://www.curseforge.com/minecraft/mc-mods/ars-additions)
+- [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag)
+- [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
+- [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
+- [ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)
+- [My Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight)
+- [Nether Depths Upgrade](https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+
+
+### **Removed**
+- [Block Prints](https://www.curseforge.com/minecraft/mc-mods/block-prints) <br />
+  ^ (Reason: Keybind issues on mediakeys. Will be re-added once fixed.)
+- [Time in a bottle](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-universal) <br />
+  ^ (Reason: Alternative exists in [@GAG](https://www.curseforge.com/minecraft/mc-mods/gag) now.)
+
+
+### **Notable Changes**
+- Items in Gravestones are now dropped on the ground instead of deleted if the Gravestone is accidentally broken.
+- Hid multiple blocks/items in JEI that were from mods that require an addon which isn't present.
+- Added Wild Waystone generation to additional dimensions.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Food Items from @Extra Delight having an insane amount of saturation is now fixed.
+- Fixed the Speed Effect still changing FOV Values despite being disabled.
+- Wild Waystones not generating is now fixed.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added a @Patchouli guide book reward to some chapters that have it.
+- Small fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.31 to 21.1.39.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.39
+
+
+### **Additional Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.16.0</h1>
 
 > ### Big Update! New mods, new quests, quality of life, lots of changes & fixes + more! <br />
