@@ -1,3 +1,73 @@
+<h1>v0.18.0</h1>
+
+> ### New biomes! New mods, new quests, some changes & fixes + more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Block Prints](https://www.curseforge.com/minecraft/mc-mods/block-prints)
+- [Crash Utilities](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
+- [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity)
+- [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+- [Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
+
+### **Removed**
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) <br />
+  ^ (Note: Removed due to an incompatibility with @Twilight Forest, will be re-added once fixed.)
+
+
+### **Notable Changes**
+- Lots of new biomes to discover, provided by [@Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone). <br />
+  ^ (Note: You don't need a new world for these biomes, simply generate new terrain and there's a chance for them to generate.)
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- "Fixed" taking Fall Damage when crouching towards the ground with Angel Ring equipped. <br />
+  ^ (Note: Downgraded mod two versions until a real fix is in place.)
+- @Iron Jetpacks using double the energy when equipped in a Curios slot is now fixed.
+- Various issues with Augments from @Mystical Agriculture is now fixed.
+- The Enchanter from @Mystical Agriculture not working is now fixed.
+- Hoe(s) being consumed in various recipes is now fixed.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Re-added a chapter: @Twilight Forest.
+- Small fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.39 to 21.1.50.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.50
+
+
+### **Additional Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.17.0</h1>
 
 > ### New mods, various fixes, changes & more! <br />
