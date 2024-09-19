@@ -48,7 +48,6 @@
 
 
 ### **Notable Fixes**
-- @Angel Ring Wings showing up on other players with no Angel Ring is now fixed.
 - Fixed incorrect pack version on the main menu.
 - (!) Fixes included in mod updates, as always.
 
