@@ -1,3 +1,91 @@
+<h1>v0.19.0</h1>
+
+> ### Big update! Lots of new mods, new quests, many changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AE2: Crafting Tree](https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree)
+- [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk)
+- [Corail Woodcutter](https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter)
+- [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge)
+- [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)
+- [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)
+- [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
+- [Illager Invasion](https://www.curseforge.com/minecraft/mc-mods/illager-invasion)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- [Observable](https://www.curseforge.com/minecraft/mc-mods/observable)
+- [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)
+- [Relics: Artifacts Compat](https://www.curseforge.com/minecraft/mc-mods/rar-compat)
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) (+ [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) & [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra))
+- [Stoneworks](https://www.curseforge.com/minecraft/mc-mods/stoneworks)
+- [Straw Statues](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)
+- [Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight)
+
+
+### **Removed**
+- [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition) <br />
+  ^ (Reason: Mod no longer maintained and has bugs.)
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
+- [Embeddium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) <br />
+  ^ (Reason: Both replaced by [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)).
+
+
+### **Notable Changes**
+- A select number of @Artifacts can now be leveled up with the @Relics level system.
+- Added Saplings from @Oh The Biomes We've Gone & other mods to the @FfB Market.
+- Deleting singleplayer worlds will now go to the OS Recycle Bin if deleted.
+- Made Ender Pearls from @Enderman Overhaul able to craft Ender Eye.
+- Moved Smithing Table recipe order in JEI to not show first.
+- Potion Effect icons are now smaller and more compact.
+- Added more ore processing compat to various machines.
+- Updated the Shaders Link in the in-game pause menu.
+- Performance improvements around particles.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- @Angel Ring Wings showing up on other players with no Angel Ring is now fixed.
+- Fixed incorrect pack version on the main menu.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Re-added a chapter: @Industrial Foregoing.
+- Re-added a chapter: @Ender IO.
+- Small fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.50 to 21.1.54.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.54
+
+
+### **Additional Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.18.0</h1>
 
 > ### New biomes! New mods, new quests, some changes & fixes + more! <br />
