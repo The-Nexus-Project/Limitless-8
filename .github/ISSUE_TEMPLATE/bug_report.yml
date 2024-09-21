@@ -32,9 +32,9 @@ body:
   - type: checkboxes
     id: addedmods
     attributes:
-      label: Are you using Oculus/Iris?
+      label: Are you using Iris? (For shaders).
       options:
-        - label: Yes. I am using Oculus/Iris.
+        - label: Yes. I am using Iris.
         - label: No. My instance is unmodified, stock install.
     validations:
       required: true
