@@ -1,3 +1,88 @@
+<h1>v0.20.0</h1>
+
+> ### New mods, new quests, quality of life, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AE2 Network Analyser](https://www.curseforge.com/minecraft/mc-mods/ae2-network-analyser)
+- [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus)
+- [Iron Ender Chest](https://www.curseforge.com/minecraft/mc-mods/iron-ender-chests)
+- [Mob Lassos](https://www.curseforge.com/minecraft/mc-mods/mob-lassos)
+- [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)
+- [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
+- [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
+- [Rustic Delight](https://www.curseforge.com/minecraft/mc-mods/rustic-delight)
+- [Sodium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) <br />
+  ^ (Note: Disabled by default, enable in Sodium Settings.)
+- [Sodium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
+- [Telepastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Dynamic Lights can now be enabled in Sodium Settings -> Sodium Dynamic Lights -> Quality Mode.
+- Killing the Ender Dragon will now always spawn a new Dragon Egg at the middle End Fountain.
+- You can now enable Borderless Fullscreen in Sodium Settings -> General -> Fullscreen Mode.
+- Players can no longer open backpacks on other players backs by default.
+- Potion Effects icons now only renders in inventory and nowhere else. <br />
+  ^ (This will prevent overlap with buttons in many GUIs.)
+- Mimic Spawn Egg(s) can now be used on spawners.
+- Filtered out logs from overly excessive spam.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- "Fixed" the player head showing when casting spells by disabling the first person spell casting animation. (@Iron's Spells 'n Spellbooks)
+- An issue which caused the FPS to be significantly lower while in inventory is now fixed.
+- A NullPointerException crash related to the Invisibility Scarf is now fixed.
+- Graves deleting modded content after restarting instance is now fixed.
+- Fixed Compressed Soul Sand not being craftable.
+- Fixed the @Ars Nouveau Scry Ritual recipes.
+- Fixed @Potion Bundles being uncraftable.
+- Fixed a Redstone Dust duping issue.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed Crafting Tables from @OTBWG not triggering the "Benchmarking" quest.
+- Fixed various hidden quests not being completable.
+- Re-added a chapter: @Roots Classic.
+- Minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.54 to 21.1.61.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.61
+
+
+### **Additional Notes**
+- Editing mod configs in-game can result in a crash for most mods. Fixed with time.
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.19.0</h1>
 
 > ### Big update! Lots of new mods, new quests, many changes, fixes & more! <br />
