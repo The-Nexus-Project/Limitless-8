@@ -42,6 +42,7 @@
 - An issue which caused the FPS to be significantly lower while in inventory is now fixed.
 - A NullPointerException crash related to the Invisibility Scarf is now fixed.
 - Graves deleting modded content after restarting instance is now fixed.
+- The Looting enchantment being unable to go on Swords is now fixed.
 - Fixed Compressed Soul Sand not being craftable.
 - Fixed the @Ars Nouveau Scry Ritual recipes.
 - Fixed @Potion Bundles being uncraftable.
