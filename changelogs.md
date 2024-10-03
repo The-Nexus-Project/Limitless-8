@@ -1,3 +1,78 @@
+<h1>v0.21.0</h1>
+
+> ### Fixes, changes, new mods, new quests & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Attributes Fix](https://www.curseforge.com/minecraft/mc-mods/attributesfix)
+- [Better Modlist](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge)
+- [Floral Enchantment](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment)
+- [I'm Fast](https://www.curseforge.com/minecraft/mc-mods/im-fast)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+- [Pretty Pipes: Fluids](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids)
+
+
+### **Removed**
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) <br />
+  ^ (Reason: Caused crashes, replaced by [Better Modlist](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge).)
+- [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) <br />
+  ^ (Reason: Caused issues, instability.)
+
+
+### **Notable Changes**
+- You will now no longer get teleported back when server is lagging/skipping ticks.
+- Memory usage, loading & stability improvements.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- The Player "moved wrongly" & "moved too quickly" message being spammed in server console is now fixed.
+- Fixed wrong ingot(s) being used for various recipes in @Modern Industrialization & other mods.
+- Crashes when placing Cabinets or Canvas Signs from @Farmer's Delight is now fixed.
+- Resolved an issue that was slowing down loading times, into worlds, reloads etc.
+- Crashes when scrolling through the Mod Configs menu is now fixed.
+- Fixed memory lag spikes & low fps around @Easy Villager blocks.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 11 new quests to the @Mystical Agriculture chapter.
+- Fixed a few invalid rewards in various chapters.
+- Added one new quest to the @Ender IO chapter.
+- Re-added a chapter: @Nature's Aura.
+- Minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.61 to 21.1.65.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.65
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.20.0</h1>
 
 > ### New mods, new quests, quality of life, changes, fixes & more! <br />
