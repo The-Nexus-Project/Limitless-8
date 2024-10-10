@@ -1,3 +1,66 @@
+<h1>v0.22.0</h1>
+
+> ### New mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AdvancedAE](https://www.curseforge.com/minecraft/mc-mods/advancedae)
+- [FTB JEI Extras](https://www.curseforge.com/minecraft/mc-mods/ftb-jei-extras)
+- [Max Health Fix](https://www.curseforge.com/minecraft/mc-mods/max-health-fix)
+- [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- The following @Artifacts can now be upgraded through the @Relics level system: Cloud in a Bottle, Vampiric Glove, Golden Hook, Onion Ring, Digging Claws, Antidote Vessel, Power Glove & Withered Bracelet.
+- The Server Files Package is now updated to include the Forge Installation by default.
+- @ExtendedAE now supports JEI again.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Server crashing issues with certain languages on Windows OS is now fixed.
+- Crashes when placing certain blocks from @FramedBlocks is now fixed.
+- Recipes from @BankStorage now show up in @JEI.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed an issue with the @Nature's Aura chapter which made it impossible to start it.
+- Various grammar fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.65
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.21.0</h1>
 
 > ### Fixes, changes, new mods, new quests & more! <br />
