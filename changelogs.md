@@ -1,3 +1,78 @@
+<h1>v0.23.0</h1>
+
+> ### Lots of new mods, new worldgen structures, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Better Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge)
+- [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge)
+- [Better Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-neoforge)
+- [Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge)
+- [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge)
+- [Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge)
+- [Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge)
+- [Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge) <br />
+  ^ (YUNG's.)
+- [BWNC Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+- [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
+- [Mekanism Covers](https://www.curseforge.com/minecraft/mc-mods/mekanism-covers)
+- [No Villager Death Messages](https://www.curseforge.com/minecraft/mc-mods/no-villager-death-messages)
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+- [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
+
+
+### **Removed**
+- [Tiny Coal](https://www.curseforge.com/minecraft/mc-mods/tiny-coal) <br />
+  ^ (Exists in [@Utilitarian](https://www.curseforge.com/minecraft/mc-mods/utilitarian) now.)
+
+
+### **Notable Changes**
+- Villagers no longer logs a message to the console/log every time one is killed.
+- Sounds from the Wither and the Ender Dragon death sounds are now localized.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Your grave will no longer override other graves when dying in exact same places outside the world.
+- Fixed Silicon Seeds being uncraftable.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 3 new quests to the @MA Chapter.
+- Re-added a chapter: @Silent Gear.
+- Minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.65 to 21.1.71.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.71
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.22.0</h1>
 
 > ### New mods, changes, fixes & more! <br />
