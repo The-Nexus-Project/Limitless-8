@@ -8,7 +8,6 @@
 
 ### **Added**
 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
-- [Ars Énergistique](https://www.curseforge.com/minecraft/mc-mods/ars-energistique)
 - [ATL (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
 - [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
 - [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler)
