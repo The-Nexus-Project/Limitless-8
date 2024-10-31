@@ -26,6 +26,7 @@
 
 
 ### **Quests**
+- MAJOR NOTE: The @Occultism chapter is broken this update. I will be updated sometime in the near future. No ETA.
 - Minor fixes.
 
 
