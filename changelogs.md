@@ -1,3 +1,60 @@
+<h1>v0.25.0</h1>
+
+> ### Smaller update this week. Two new mods, some changes & fixes! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Énergistique](https://www.curseforge.com/minecraft/mc-mods/ars-energistique)
+- [More Industrial Foregoing Addons](https://www.curseforge.com/minecraft/mc-mods/mifa)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Disabled spawning for the Ancient Hero mob from @MonsterPlus.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A few crashes with @Immersive Engineering (like cloches) is now fixed.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.71 to 21.1.73.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.73
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.24.0</h1>
 
 > ### New mods. Memory improvements, fixes, changes & more! <br />
