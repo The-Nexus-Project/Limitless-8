@@ -1,3 +1,67 @@
+<h1>v0.26.0</h1>
+
+> ### Four new mods. Important fixes. Some changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)
+- [Smithing Template Viewer](https://www.curseforge.com/minecraft/mc-mods/smithing-template-viewer)
+- [Tax Free Levels](https://www.curseforge.com/minecraft/mc-mods/tax-free-levels)
+- [Yung Structures Addon for Loot Integrations](https://www.curseforge.com/minecraft/mc-modsyung-structures-addon-for-loot-integrations)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added the new @OTBWG wood type "Spirit" sapling to the @FfB market.
+- Enchantments are now "tax free". (In anvil etc.)
+- New icons in the @FTB mods.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- The blueprints from @Immersive Engineering causing crashes are now fixed.
+- Fixed Jetpacks from @IronJetpacks being invalid/uncraftable.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed rewards related to the @Immersive Engineering blueprints.
+- Re-added a chapter: @Reliquary Reincarnations.
+- Added 1 new quest to the @Relics chapter.
+- Minor fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.73
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.25.0</h1>
 
 > ### Smaller update this week. Two new mods, some changes & fixes! <br />
