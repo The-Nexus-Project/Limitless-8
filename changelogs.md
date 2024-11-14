@@ -1,3 +1,72 @@
+<h1>v0.27.0</h1>
+
+> ### Lots of new mods. New animals/mobs, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
+- [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine)
+- [Crafting Station: JEI Edition](https://www.curseforge.com/minecraft/mc-mods/crafting-station-jei-edition-updated)
+- [Living Things](https://www.curseforge.com/minecraft/mc-mods/living-things)
+- [Loot Integrations: Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-dungeon-crawl)
+- [Rebind Narrator](https://www.curseforge.com/minecraft/mc-mods/rebind-narrator)
+- [Steve's Carts](https://www.curseforge.com/minecraft/mc-mods/creeperhost-presents-steves-carts)
+- [Wabi-Sabi Structures](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-forge)
+- [Wormhole (Portals)](https://www.curseforge.com/minecraft/mc-mods/wormhole-portals)
+
+
+### **Removed**
+- [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) <br />
+  ^ (Replaced by [CS: JEI Edition](https://www.curseforge.com/minecraft/mc-mods/crafting-station-jei-edition-updated).)
+
+
+### **Notable Changes**
+- The following @Artifacts can now be researched with @Relics: Kitty Slipper & Bunny Hoppers.
+- Added @Mystical Agriculture seed support to the @IE Cloche.
+- The narrator feature can now be bound to another key.
+- The @Dungeon Crawl dungeons now have improved loot.
+- Lots of new animals and mobs in general.
+- New worldgen structures / ruins.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed the recipes for Aluminum, Electrum & Nickel seeds having the type of ingot for ingredients.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Minor fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.73
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.26.0</h1>
 
 > ### Four new mods. Important fixes. Some changes & more! <br />
