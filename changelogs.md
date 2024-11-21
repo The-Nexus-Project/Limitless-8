@@ -1,3 +1,71 @@
+<h1>v0.28.0</h1>
+
+> ### Lots of new mods, shader support. Eat to gain health, fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Cable Facades](https://www.curseforge.com/minecraft/mc-mods/cable-facades)
+- [Extended Industrialization](https://www.curseforge.com/minecraft/mc-mods/extended-industrialization)
+- [Farmer's Croptopia](https://www.curseforge.com/minecraft/mc-mods/farmers-croptopia)
+- [Iris](https://www.curseforge.com/minecraft/irisshaders)
+- [Loot Integrations: When Dungeons Arise & Co](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise)
+- [MoGlass](https://www.curseforge.com/minecraft/mc-mods/mo-glass)
+- [NeoAuth](https://www.curseforge.com/minecraft/neoauth)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/spice-of-life-carrot-edition)
+- [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer)
+
+
+### **Removed**
+- [Mekanism Covers](https://www.curseforge.com/minecraft/mc-mods/mekanism-covers) <br />
+  ^ (Replaced by [Cable Facades](https://www.curseforge.com/minecraft/mc-mods/cable-facades).)
+
+
+### **Notable Changes**
+- @Iris added, which means shaders can now be installed without any extra steps.
+- You're now able authenticate and re-validate your Minecraft session in-game.
+- You can now eat unique food to increase your overall maximum health.
+- The dungeons from @When Dungeons Arise now have improved loot.
+- Some worldgen optimizations.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Removed the @Occutlism chapter until chapter is fully fixed.
+- Minor fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.73
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.27.0</h1>
 
 > ### Lots of new mods. New animals/mobs, changes, fixes & more! <br />
