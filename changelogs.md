@@ -1,3 +1,69 @@
+<h1>v0.29.0</h1>
+
+> ### Many new mods, changes fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
+- [Complementary - Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined) (Shaderpack.)
+- [Complementary - Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) (Shaderpack.)
+- [Eccentric Tome Updated](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome-updated)
+- [Loot Integrations: Hopo's Mods](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-hopo-better-mineshaft-ruins)
+- [Luggage](https://www.curseforge.com/minecraft/mc-mods/luggage)
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
+- [Snowy Spirit](https://www.curseforge.com/minecraft/mc-mods/snowy-spirit)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Removed Shaders tutorial Button in the in-game pause menu since Iris is now included by default.
+- Better integrated loot in structures from @Hopo's.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A bug was fixed where if a player was already loading a chunk with @Cable Facades inside, a new player wouldn't see them.
+- Fixed@ IPN sort buttons overlapping existing sort buttons in @Sophisticated Backpacks.
+- Some fixes for the @Crafting Station.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.73 to 21.1.80.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.80
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.28.0</h1>
 
 > ### Lots of new mods, shader support. Eat to gain health, fixes, changes & more! <br />
