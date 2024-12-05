@@ -1,3 +1,67 @@
+<h1>v0.30.0</h1>
+
+> ### Changes, fixes, new mods & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
+- [Iron's Gems 'n Jewelry](https://www.curseforge.com/minecraft/mc-mods/irons-jewelry)
+- [Loot Integrations: Formations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-formations-overworld-nether)
+- [Prefab](https://www.curseforge.com/minecraft/mc-mods/prefab) <br />
+  ^ (Note: Only used for the starter kit quest!)
+- [XNet Gases](https://www.curseforge.com/minecraft/mc-mods/xnet-gases)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Better integrated loot in structures from @Formations.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed @Compact Machines having no recipes and not working in general.
+- A crash related to Flame Arrows is now fixed.
+- Air is now no longer compostable. Whoops.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added a @Prefab Starter House to the Starter Kit.
+- Minor changes/fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.80 to 21.1.83.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.83
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.29.0</h1>
 
 > ### Many new mods, changes fixes & more! <br />
