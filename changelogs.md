@@ -1,3 +1,64 @@
+<h1>v0.31.0</h1>
+
+> ### Some changes, fixes, new mods, one mod removed & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AE2 MEGA Things](https://www.curseforge.com/minecraft/mc-mods/ae2-mega-things)
+- [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)
+- [Linking Books](https://www.curseforge.com/minecraft/mc-mods/linkingbooks)
+- [Loot Integrations: Moog's Mods](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-moogs-voyager-soaring-end-nether)
+- [Loot Integrations: Structory & Towers](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-structory-towers)
+
+
+### **Removed**
+- [Solar Flux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn) <br />
+  ^ (**Note: Not functional**.)
+
+
+### **Notable Changes**
+- Disabled Steel Armor from @Immersive Engineering until the values are fixed.
+- Better integrated loot in structures from @Moog's & @Structory.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed some "empty tag" issues related to Salt.
+- (!) Fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.83
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.30.0</h1>
 
 > ### Changes, fixes, new mods & more! <br />
