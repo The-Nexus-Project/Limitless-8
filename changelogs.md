@@ -1,3 +1,77 @@
+<h1>v0.32.0</h1>
+
+> ### Big update! Lots of new mods, changes + fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Applied Experienced](https://www.curseforge.com/minecraft/mc-mods/applied-experienced)
+- [Applied Flux](https://www.curseforge.com/minecraft/mc-mods/applied-flux)
+- [Ars Nouveau's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/ars-nouveaus-flavors-delight)
+- [Champions](https://www.curseforge.com/minecraft/mc-mods/champions-unofficial)
+- [Cobblegen Galore](https://www.curseforge.com/minecraft/mc-mods/cobblegen-galore)
+- [Construction Sticks](https://www.curseforge.com/minecraft/mc-mods/construction-sticks)
+- [Fisherman's Trap](https://www.curseforge.com/minecraft/mc-mods/fishermans-trap)
+- [Fright's Delight](https://www.curseforge.com/minecraft/mc-mods/frights-delight)
+- [FTB Chunks Recoloured (Addon)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-recoloured)
+- [Mekanism: Unleashed (Addon)](https://www.curseforge.com/minecraft/mc-mods/mekanism-unleashed)
+- [Mekanism: Weapons (Addon)](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapon)
+- [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed)
+- [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
+- [Solar Generation](https://www.curseforge.com/minecraft/mc-mods/solargeneration)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now find "Champions": Elite mobs of different rarities, with enhanced stats, extra abilities, and extra loot. <br />
+  ^ (Note: These champions can be spawned for any hostile mob in the game.)
+- The "Ancient Broken Sword" from @Monster Plus now has a slight chance to drop from the Crystalian mob.
+- Blacklisted some loot from Loot Bundles but also added some new possible loot drops.
+- The @FTB Chunks fullscreen map now has color-support for most modded biomes.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed descriptions for vanilla enchantments not showing up.
+- Fixed a recipe conflict with Bamboo Stick from @Tropicraft.
+- Fixed a crash related to @AdvancedAE2 & @AE2.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.83
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.31.0</h1>
 
 > ### Some changes, fixes, new mods, one mod removed & more! <br />
