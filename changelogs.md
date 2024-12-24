@@ -17,7 +17,7 @@
 - [Fright's Delight](https://www.curseforge.com/minecraft/mc-mods/frights-delight)
 - [FTB Chunks Recoloured (Addon)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-recoloured)
 - [Mekanism: Unleashed (Addon)](https://www.curseforge.com/minecraft/mc-mods/mekanism-unleashed)
-- [Mekanism: Weapons (Addon)](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapon)
+- [Mekanism: Weapons (Addon)](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons)
 - [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed)
 - [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
 - [Solar Generation](https://www.curseforge.com/minecraft/mc-mods/solargeneration)
