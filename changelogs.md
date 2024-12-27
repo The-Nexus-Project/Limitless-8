@@ -1,3 +1,68 @@
+<h1>v0.33.0</h1>
+
+> ### Merry Christmas! Apotheosis, other new mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [Cloud Glass](https://www.curseforge.com/minecraft/mc-mods/cloud-glass)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Eccentric Tome](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome) <br />
+  ^ (Note: Swapped from the unofficial version to the official.)
+- [Soulplied Energistics](https://www.curseforge.com/minecraft/mc-mods/soulplied-energistics)
+- [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged)
+
+
+### **Removed**
+- [Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_) <br />
+  ^ (Note: Removed due to a broken version.)
+
+
+### **Notable Changes**
+- There's now a bunch of new particles such as crystal sparkles, particles on mob hitting, custom blob particles for slimes & environmental particles. <br />
+  ^ (Note: Support for modded mobs will be added in a future update.)
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A world timeout crash related to the Solar Helmet is now fixed.
+- Players sometimes getting stuck online on servers is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.83 to 21.1.90.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.90
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.32.0</h1>
 
 > ### Big update! Lots of new mods, changes + fixes & more! <br />
