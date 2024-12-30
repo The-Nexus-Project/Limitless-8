@@ -32,10 +32,10 @@ body:
   - type: checkboxes
     id: addedmods
     attributes:
-      label: Are you using Iris? (For shaders).
+      label: Are you using Shaders?
       options:
-        - label: Yes. I am using Iris.
-        - label: No. My instance is unmodified, stock install.
+        - label: Yes. I have activated shaders.
+        - label: No. Shaders are inactive.
     validations:
       required: true
   - type: checkboxes
