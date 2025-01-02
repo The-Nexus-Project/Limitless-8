@@ -1,3 +1,69 @@
+<h1>v0.34.0</h1>
+
+> ### Happy New Year! QoL update. New mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Moderately Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/moderately-enough-effect-descriptions-meed)
+- [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain)
+- [Stick It!](https://www.curseforge.com/minecraft/mc-mods/stick-it)
+- [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
+- [The Aether Villages](https://www.curseforge.com/minecraft/mc-mods/aether-villages)
+- [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
+- [The Deep Aether](https://www.curseforge.com/minecraft/mc-mods/deep-aether)
+
+
+### **Removed**
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster) <br />
+  ^ (Reason: Mod is currently not functional.)
+
+
+### **Notable Changes**
+- New subtle effects can now be found around the world from various blocks or entities.
+- You can now place items/blocks on the ground/walls as displays with keybind: P.
+- Rain and weather in general is now more "dynamic" and fancy.
+- You can now read about more modded potion effects in JEI.
+- Disabled the Infested affix in the @Champions mod.
+- Added support for modded mobs in @Visuality.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.90
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.33.0</h1>
 
 > ### Merry Christmas! Apotheosis, other new mods, changes, fixes & more! <br />
