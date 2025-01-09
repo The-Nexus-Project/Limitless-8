@@ -9,7 +9,7 @@
 ### **Added**
 - [Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
 - [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation)
-- [Mekanistic Routers](https://www.curseforge.com/minecraft/mc-mods/ekanistic-routers)
+- [Mekanistic Routers](https://www.curseforge.com/minecraft/mc-mods/mekanistic-routers)
 - [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
 - [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
 - [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
