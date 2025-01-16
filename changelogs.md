@@ -1,3 +1,62 @@
+<h1>v0.36.0</h1>
+
+> ### Smaller update this week. Some fixes, changes, new quests & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant)
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- If the modpack crashes a GUI will now pop up immediately showing all affected game/launcher logs, crash reports, etc. Provides one-click solution to upload & copy them.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed Crafting Table not being craftable with modded planks.
+- Server process hanging when shutting down is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Re-added a mini-chapter: @Flux Networks.
+- Minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.90 to 21.1.95.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.95
+
+
+### **Additional Notes**
+- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.35.0</h1>
 
 > ### Another QoL Update. New mods, fixes, changes & more! <br />
