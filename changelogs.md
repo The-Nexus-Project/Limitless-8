@@ -41,7 +41,7 @@
 
 
 ### **Additional Notes**
-- Expect breaking updates, weirdness, crashes & issues, bugs, recipe conflicts & overall instability.
+- Note that pack is still in beta so various issues like crashes could be more common.
 
 
 ### **Reporting Issues**
