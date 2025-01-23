@@ -1,3 +1,83 @@
+<h1>v0.37.0</h1>
+
+> ### Bigger QoL update. Lots of new mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Advancement Optimizer](https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer)
+- [Dungeon Delight](https://www.curseforge.com/minecraft/mc-mods/dungeon-delight)
+- [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
+- [Fresh Waystones](https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture) (Resource Pack.)
+- [FTB Quests Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)
+- [JEI: Immersive Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-immersive-multiblocks)
+- [More Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/moremousetweaks)
+- [OTBWG Delight](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone-delight)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- @Artifacts & @Relics can now be recycled into Diamonds & Solidified Experience in the Salvager from @Silent Gear.
+- Disabled the "frosty breath" that is emitting from your face while in cold biomes.
+- The multiblocks from @Immersive Engineering now have JEI support.
+- The container "sorting algorithm" is now "Descending Item Count".
+- General optimizations centered around Advancements & FTB Quests.
+- A button can now be clicked with ease to show JEI's first page.
+- Blacklisted some invalid items from the Loot Bundle loot table.
+- Lowered the spawn weight for Lava Squid(s).
+- Ghasts should now be somewhat more common.
+- Made certain structures more rare.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a freezing issue that could occur when sorting any container.
+- Fixed the "Crash GUI" having the wrong localization text strings.
+- Some OpenGL error spam in logs is now fixed (or greatly reduced).
+- Fixed some graphical issues in the Sodium Options menu.
+- Fixed Creepers ALWAYS having a @Champions rank active. <br />
+  ^ (This caused Creepers to always 1-hit you, but no longer.)
+- The command "/back" not working properly is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Updated description of the @EnderIO "Grains of Infinity" quest.
+- Re-added a chapter: @The Aether. <br />
+  ^ (Note: Chapter has been refactored a bit.)
+- Minor formatting changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.95
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.36.0</h1>
 
 > ### Smaller update this week. Some fixes, changes, new quests & more! <br />
