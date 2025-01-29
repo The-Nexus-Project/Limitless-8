@@ -1,3 +1,69 @@
+<h1>v0.38.0</h1>
+
+> ### New mods, QoL. Fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Additional Lanterns](https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Relics of Rain](https://www.curseforge.com/minecraft/mc-mods/relics-of-rain)
+
+
+### **Removed**
+- [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger) <br />
+  (Note: Replaced by [@Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone).)
+
+
+### **Notable Changes**
+- Disabled the "/back" command as the "Enchanted Grave Key" is always given upon death. <br />
+  (Note: Hold right-click for a bit to teleport to your grave location.)
+- Added alternate recipes for higher tiered Solar Panels from @SolarGeneration mod. <br />
+  (Note: Also adjusted the textures to match ingredients used.)
+- Using the Zoom key now hides the HUD upon activation.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- An invisible GUI being opened that couldn't be closed is now fixed.
+- Fixed Wood Seeds not being craftable with any Log.
+- Some crashes related to JEI are now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed some "guidelines" in @The Aether chapter being inverted.
+- Added 8 new quests to the @Relics chapter.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.95 to 21.1.112.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.112
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.37.0</h1>
 
 > ### Bigger QoL update. Lots of new mods, changes, fixes & more! <br />
