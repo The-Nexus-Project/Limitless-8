@@ -8,7 +8,7 @@
 
 ### **Added**
 - [Arcane Lanterns](https://www.curseforge.com/minecraft/mc-mods/arcane-lanterns)
-- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeper-and-darker)
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
 - [Productive Metalworks](https://www.curseforge.com/minecraft/mc-mods/productive-metalworks)
 
 
