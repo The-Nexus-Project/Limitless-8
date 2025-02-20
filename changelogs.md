@@ -1,3 +1,64 @@
+<h1>v0.41.0</h1>
+
+> ### Oritech, fixes, some changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Disconnect Packet Fix](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix)
+- [Macaw's We've Gone](https://www.curseforge.com/minecraft/mc-mods/macaws-byg-bwg)
+- [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Blacklisted even more GUIs to not include sort buttons.
+- Added the @Oritech wrench to the @Morph-o-Tool recipe.
+- Added more guide books to the @Eccentric Tome recipe.
+- Unified gems from various mods to reduce duplicates.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- The @Journey Map icons and border disappearing when holding tab is now fixed.
+- The Holy Locket from @Relics causing performance issues is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.115
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.40.0</h1>
 
 > ### New quests, new mods, QoL. Changes, fixes & more! <br />
