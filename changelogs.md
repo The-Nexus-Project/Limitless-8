@@ -1,3 +1,70 @@
+<h1>v0.42.0</h1>
+
+> ### Energized Power! QoL, changes, fixes & more. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Energized Power](https://www.curseforge.com/minecraft/mc-mods/energized-power)
+- [Energized Power - Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/energized-power-regions-unexplored)
+- [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added support for more ore processing recipes in most if not all available machines.
+- The real modcount of the modpack is now properly displayed on the main menu.
+- You can now find random Deepslate "ore blobs" on the surface.
+- Unified Sawdust, Charcoal Dust & Coke to prevent duplicates.
+- Some improvements to memory usage.
+- Re-enabled Steel Armor from @IE.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed the advancement: "The Upgrade" not being granted properly.
+- A crash when placing the Toolbox from @IE is now fixed.
+- Fixed Bronze Seed recipe using the wrong type of ingot.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Updated the Eccentric Tome in the starter kit.
+- Fixed some delays in quest triggering.
+- Other minor fixes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.115 to 21.1.122.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.122
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.41.0</h1>
 
 > ### Oritech, fixes, some changes & more! <br />
