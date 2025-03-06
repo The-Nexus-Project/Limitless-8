@@ -1,3 +1,68 @@
+<h1>v0.43.0</h1>
+
+> **Warning: [Expanded Storage](https://curseforge.com/minecraft/mc-mods/expanded-storage) removed!** <br />
+> **Existing containers will turn into a "break me" block.** <br />
+> **This block will contain all loot from the container.**
+
+> ### Three new mods, one removed. Changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Reliquified Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/reliquified-twilight-forest)
+- [Reliquified Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/reliquified-ars-nouveau)
+- [Storage No Poof](https://www.curseforge.com/minecraft/mc-mods/storage-no-poof)
+
+
+### **Removed**
+- [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage) <br />
+  (Reason: Mod is removed from CurseForge & GitHub.)
+
+
+### **Notable Changes**
+- Recipes that only accepted the vanilla ender pearl will now work with any ender pearl.
+- New panorama background in certain guis.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A crash from the @Bridging Mod when using a Bank from @BankStorage is now fixed.
+- Fixed Steel & Tin Seed recipes using the wrong type of ingots.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 11 new quests to the @Relics chapter.
+- Fixed a few spelling mistakes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.122
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.42.0</h1>
 
 > ### Energized Power! QoL, changes, fixes & more. <br />
