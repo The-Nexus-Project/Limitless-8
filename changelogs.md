@@ -1,3 +1,66 @@
+<h1>v0.44.0</h1>
+
+> ### Cataclysm, some optimizations, new mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames)
+- [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium) <br />
+  (**Note: Added as a test to see how stable it is**.)
+- [Industrialization Overdrive](https://www.curseforge.com/minecraft/mc-mods/industrialization-overdrive)
+- [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
+- [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
+
+
+### **Removed**
+- [Dungeon Delight](https://www.curseforge.com/minecraft/mc-mods/dungeon-delight)
+- [OTBWG Delight](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone-delight) <br />
+  (**Reason: Both mods removed from CurseForge**.)
+
+
+### **Notable Changes**
+- General performance improvements/optimizations.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Some crashing issues related to NBT data is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 8 new quests to the @Relics chapter.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.122 to 21.1.133.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.133
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.43.0</h1>
 
 > **Warning: [Expanded Storage](https://curseforge.com/minecraft/mc-mods/expanded-storage) removed!** <br />
