@@ -1,3 +1,77 @@
+<h1>v0.45.0</h1>
+
+> ### Create, C2ME, EMI. QoL changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Concurrent Chunk Management Engine (C2ME)](https://www.curseforge.com/minecraft/mc-mods/c2me)
+- [Crawl](https://www.curseforge.com/minecraft/mc-mods/crawl)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
+- [Faster Ladder Climbing](https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [Items Displayed](https://www.curseforge.com/minecraft/mc-mods/items-displayed-forge)
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+- [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
+
+
+### **Removed**
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) & some addons. <br />
+  (**Reason: Replaced by [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)**).
+- [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities) <br />
+  (**Reason: Currently crashes with [C2ME](https://www.curseforge.com/minecraft/mc-mods/c2me), will be re-added once fixed!**)
+
+
+### **Notable Changes**
+- You can now crawl on demand by holding down a key. (C by default.)
+- Blacklisted some invalid items in the Loot Bundle loot table.
+- Significant improvements to chunk generation speed.
+- Buffed the Digital Miner energy storage by 50,000.
+- Halfed the operation cost in the Digital Miner.
+- Chalks no longer generate in Loot Chests.
+- You can now climb ladders 2x faster.
+- Recipe performance improvements.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A crash related to the @Mekanism Cardboard Box on spawners is now fixed.
+- Fixed a few recipe conflicts.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 5 new quests to the @Relics chapter.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.133
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.44.0</h1>
 
 > ### Cataclysm, some optimizations, new mods, changes, fixes & more! <br />
