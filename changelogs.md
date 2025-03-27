@@ -1,3 +1,78 @@
+<h1>v0.46.0</h1>
+
+> ### New mods, quality of life, ambiance improvements & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)
+- [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
+- [Particular](https://www.curseforge.com/minecraft/mc-mods/particular-reforged)
+- [Sounds](https://www.curseforge.com/minecraft/mc-mods/sound)
+
+
+### **Removed**
+- [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare) <br />
+  (Reason: Currently not functional.)
+
+
+### **Notable Changes**
+- Blacklisted @Guard Villagers from being encased in Amber to prevent fps drops.
+- Disabled the Desert Acolyte & Sorceress from @MonsterPlus to prevent crashes.
+- Leaves now have small falling leaf particles for more ambiance.
+- Additional new sounds for various blocks and specific actions.
+- Disabled the block breaking sound when leaves decay.
+- Disabled Lightning Rod Oxidation.
+- Some performance improvements.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- The @Polymorph button not showing up in @Tom's Storage is now fixed.
+- Fixed duplicate gems still being present in loot chests. <br />
+  (Note: Deprecated gems can be converted in the Salvager.)
+- Fixed various items not showing up in EMI. <br />
+  (E.g: Enchanted Books, Gateways etc.)
+- A crash in the Desert Biome is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 4 new quests to the @Relics chapter.
+- Fixed missing description on some quests.
+- Fixed missing texture as a reward icon.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.133 to 21.1.139.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.139
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.45.0</h1>
 
 > ### Create, C2ME, EMI. QoL changes, fixes & more! <br />
