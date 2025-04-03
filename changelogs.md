@@ -1,3 +1,94 @@
+<h1>v0.47.0</h1>
+
+> ### Big update! Refined Storage (+ Quests), QoL, lots of fixes & changes + more! <br />
+**Note: If you're on v0.46.0 it's highly recommended to update.**
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
+- [Create Ultimine](https://www.curseforge.com/minecraft/mc-mods/create-ultimine)
+- [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
+- [Macaw's Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)
+- [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) <br />
+  ↳ The following [@RS](https://www.curseforge.com/minecraft/mc-mods/refined-storage) addons are also added:  <br />
+  - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks), [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage), [Interdim Wireless Transmitter](https://www.curseforge.com/minecraft/mc-mods/interdimensional-wireless-transmitter) & [Universal Grid](https://www.curseforge.com/minecraft/mc-mods/universal-grid).
+- [Sophisticated Storage: Create Integration](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration)
+- [Twilight Treehouses](https://www.curseforge.com/minecraft/mc-mods/twilight-treehouses)
+
+
+### **Removed**
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) <br />
+  (Reason: Causes some recipes not to show in [@EMI](https://www.curseforge.com/minecraft/mc-mods/emi).) <br />
+  (Note: Replaced by [@Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric).)
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) <br />
+  (Reason: Currently not working due to a mod compatibility issue.)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) <br />
+  (Reason: [@Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric) has the same feature set.)
+
+
+### **Notable Changes**
+- Disabled the 3D torch hand-model due to an issue with a white flickering line above the model.
+- The music from @Minecraft itself now plays more often and has less delays between songs. <br />
+  (Note: Music can now also play in modded biomes.)
+- The big trees in the [@Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) can now have cozy treehouses generating in them.
+- Biosteel Ingot from [@Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech) can now be processed into dust in many more machines.
+- Added Stripped Menril Log to the Stripped Logs & Minecraft Logs tag.
+- The [@Cardiac](https://www.curseforge.com/minecraft/mc-mods/cardiac) Life Orbs now despawns after 5 seconds instead of 10.
+- Added [@EMI](https://www.curseforge.com/minecraft/mc-mods/emi) info panels to all Mining Dimension access blocks.
+- Disabled the sound when picking up items in inventory, etc.
+- Added a tooltip to the Loot Bundle item & Limitless Sword.
+- Added Platinum Ore to the Overworld Mining Dimension.
+- The [@Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) Lich Tower has been reworked.
+- Disabled duplicate Firefly particles.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- The whole game turning black when searching for @HostileNeuralNetworks in @EMI is now fixed.
+- Fixed a recipe conflict with the Cutting Board & Potato Slices.
+- A crash when right-clicking a filled flower pot is now fixed.
+- Fixed Biosteel from [@Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech) not being craftable.
+- Fixed various recipes not showing up in [@EMI](https://www.curseforge.com/minecraft/mc-mods/emi). <br />
+  (E.g: Infusion Recipes from [@Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture).)
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 1 new quest to the [@Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) chapter.
+- Re-added a chapter: [@Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage). <br />
+  (Note: Chapter has been refactored a little bit, new rewards etc.)
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.139 to 21.1.142.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.142
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.46.0</h1>
 
 > ### New mods, quality of life, ambiance improvements & more! <br />
