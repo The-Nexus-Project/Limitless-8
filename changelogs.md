@@ -1,3 +1,58 @@
+<h1>v0.48.0</h1>
+
+> ### Small update this week. Mod updates & some changes. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Create: Filters Anywhere](https://www.curseforge.com/minecraft/mc-mods/create-filters-anywhere)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Removed the sorting buttons from most if not all @RS related GUIs.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 5 new quests to the @Relics chapter.
+- Small fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.142
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v0.47.0</h1>
 
 > ### Big update! Refined Storage (+ Quests), QoL, lots of fixes & changes + more! <br />
