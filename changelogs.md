@@ -1,3 +1,78 @@
+<h1>v0.49.0</h1>
+
+> ### Many new mods, some changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Animal Pens](https://www.curseforge.com/minecraft/mc-mods/animal-pens)
+- [Ars Technica](https://www.curseforge.com/minecraft/mc-mods/ars-technica)
+- [Butchercraft](https://www.curseforge.com/minecraft/mc-mods/butchercraft)
+- [Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)
+- [Create: Enchantable Machinery](https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery)
+- [Create: Mechanical Chicken](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-chicken) + [Cow](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-cow)
+- [Create: Simple Generator](https://www.curseforge.com/minecraft/mc-mods/create-simple-generator)
+- [EnderDrives](https://www.curseforge.com/minecraft/mc-mods/enderdrives)
+- [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare)
+- [Overenchanted](https://www.curseforge.com/minecraft/mc-mods/overenchanted)
+- [Sophisticated Backpacks Create Integration](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration)
+- [World Play Time](https://www.curseforge.com/minecraft/mc-mods/world-play-time)
+
+
+### **Removed**
+- [Bagus Mob](https://www.curseforge.com/minecraft/mc-mods/bagus-mob) <br />
+  (Reason: Removed due to crashes.)
+
+### **Notable Changes**
+- Disabled the current Advanced Importer & Exporter in favor of [@Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers) equivalent. <br />
+  (Note: Recipes are the same.)
+- Your current world play time is now displayed in the world select screen.
+- You can now apply enchantments to various [@Create](https://www.curseforge.com/minecraft/mc-mods/create) blocks. <br />
+  (Example: Mechanical Drill, Saw, and Harvester, etc.)
+- The Trash Slot is now visible in any @Sophisticated GUI.
+- You can now compare equipment/tools by holding LSHIFT.
+- Lots of new enchantments are now available.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Shared items in chat will now properly render the icon without needing the chat to be open.
+- A crash while walking around in The Nether is now fixed.
+- Fixed missing recipe for Pulsating Alloy Ingot.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 5 new quests to the @Relics chapter.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.142
+
+
+### **Additional Notes**
+- Note that pack is still in beta so various issues like crashes could be more common.
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v0.48.0</h1>
 
 > ### Small update this week. Mod updates & some changes. <br />
