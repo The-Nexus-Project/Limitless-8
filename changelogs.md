@@ -1,3 +1,74 @@
+<h1>v1.0.0</h1>
+
+> ### Full release! New mods, QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
+- [AgriTech](https://www.curseforge.com/minecraft/mc-mods/agritech-automated-crops)
+- [AgriTech Trees](https://www.curseforge.com/minecraft/mc-mods/agritech-trees-automated-trees)
+- [Aquaculture Delight](https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight)
+- [Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)
+- [Create: Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)
+- [MineMenu](https://www.curseforge.com/minecraft/mc-mods/minemenu)
+- [Not Enough Glyphs](https://www.curseforge.com/minecraft/mc-mods/not-enough-glyphs)
+- [Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+
+
+### **Removed**
+- No mods removed.
+
+### **Notable Changes**
+- Added Deepslate, Tuff, Dripstone, Netherrack, Calcite, Chalk, Mossy Stone, Argillite, Depthrock, Shiverstone, Grimstone, Voidstone, Holystone & Sculk Stone support to @Cobblegen Galore.
+- A radial menu which can be used to activate either commands or keybindings has been added. <br />
+  (Note: You can view this radial menu by holding down 'R' by default.)
+- EMI's first time load on world join is now improved a bit.
+- Added Brass Ingot recipe to the @EnderIO Alloy Smelter.
+- Unified Crude Oil to work with other mods better.
+- Made all structures from @Cataclysm more common.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Loading Screen progress bar visually resetting when resizing the game window is now fixed.
+- Fixed some recipe conflicts.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Changed progression mode for quests to "FLEXIBLE". <br />
+  (This means that you will complete the quest instantly after you complete the prerequisites.) <br />
+  (A gray checkmark will be displayed on the locked quest to indicate this!)
+- Fixed a missing texture in some chapters.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.142 to 21.1.162.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.162
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v0.49.0</h1>
 
 > ### Many new mods, some changes, fixes & more! <br />
