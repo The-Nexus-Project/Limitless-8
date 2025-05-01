@@ -1,3 +1,93 @@
+<h1>v1.1.0</h1>
+
+> ### Lots of new mods, new quests, QoL changes, general changes, important fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
+- [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
+- [Boat Item View](https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge)
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [Just Hammers](https://www.curseforge.com/minecraft/mc-mods/justhammers)
+- [Move Boats](https://www.curseforge.com/minecraft/mc-mods/move-boats)
+- [Oracle Index](https://www.curseforge.com/minecraft/mc-mods/oracle-index)
+- [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled) (+ [Chipped](https://www.curseforge.com/minecraft/mc-mods/rechiseled-chipped) & [Create](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create) addons.)
+
+
+### **Removed**
+- [Create: Filters Anywhere](https://www.curseforge.com/minecraft/mc-mods/create-filters-anywhere) <br />
+  (Reason: Makes server thread stuck preventing server to shut down properly.)
+
+
+### **Notable Changes**
+- Added Asurine, Blackstone, Crimsite, Dacite, Gloomslate, Limestone, Ochrum, Rocky Stone, Scoria & Veridium support to @Cobblegen Galore.
+- You can now move boats easily by using crouching and right-clicking them to "pick them up".
+- Increased the maximum allowed [@Everlasting Abilities](https://www.curseforge.com/minecraft/mc-mods/everlastingabilities) to 5 (from 4).
+- Disabled the "chunk colormap" animation when generating a world.
+- Improved mod compatibility with fruits/crops from @TropiCraft.
+- Maps will now always show in your hand while riding boats.
+- Added new possible loot to the Loot Bundle loot table.
+- Heads and Skulls can now be mined faster with an Axe.
+- Added additional mod support recipes to @AgriTech.
+- Re-enabled the "accessories" button in inventory. <br />
+  (Note: This is where some Curios ended up sometimes when right-clicking them in hand.)
+- Wild Towers can now generate in modded biomes.
+- Added a new alternative recipe for Ink Sac.
+- Some recipe performance improvements.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A crash in the creative search menu related to @Modular Routers when having unbinded/changed keybinds is now fixed.
+- The Internal Server freezing when entering @Deeper and Darker dimension is now fixed.
+- Server thread being stuck when stopping servers is now fixed.
+- The Darkness effect being broken is now fixed.
+- Fixed Zinc & Platinum Seed recipes missing.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 2 new quests to the [@Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) chapter.
+- Added a new chapter: [@Just Dire Things](https://www.curseforge.com/minecraft/mc-mods/just-dire-things). <br />
+  (Note: This chapter is made by @MrEizy.) <br />
+  (Note: More chapters are planned, but I'm a solo dev so making these takes time!)
+
+
+### **Shaders Packs Added**
+- [Bliss Shaders](https://www.curseforge.com/minecraft/shaders/bliss-shader)
+- [DrDestens Shaders](https://www.curseforge.com/minecraft/shaders/drdestens-minecraftshaders)
+- [Mellow Shaders](https://www.curseforge.com/minecraft/shaders/mellow)
+- [Nostalgia Shaders](https://www.curseforge.com/minecraft/shaders/nostalgia-shader)
+- [Skygleam Shaders](https://www.curseforge.com/minecraft/shaders/skygleam-shaders)
+- [Vanilla Plus Shaders](https://www.curseforge.com/minecraft/shaders/vanilla-plus-shader)
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.162 to 21.1.169.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.169
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.0.0</h1>
 
 > ### Full release! New mods, QoL, changes, fixes & more! <br />
