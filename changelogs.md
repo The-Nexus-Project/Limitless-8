@@ -1,3 +1,59 @@
+<h1>v1.2.0</h1>
+
+> ### A few new mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Create: Quality Of Life](https://www.curseforge.com/minecraft/mc-mods/create-qol)
+- [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added a huge new amount of possible loot to the loot bundle loot table. <br />
+  (Note: Also blacklisted some items, specifically invalid items & some trash.)
+- Replaced the current Feral Lantern with the @Torchmaster equivalent.
+- Some memory improvements.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed items dropping when trying to lock an inventory slot.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed two invalid quests in the @Just Dire Things chapter.
+- Fixed a few spelling errors.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.169
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.1.0</h1>
 
 > ### Lots of new mods, new quests, QoL changes, general changes, important fixes & more! <br />
