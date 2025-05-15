@@ -1,3 +1,69 @@
+<h1>v1.3.0</h1>
+
+> ### Space? QoL changes, general changes + fixes & more. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Cognition](https://www.curseforge.com/minecraft/mc-mods/cognition-mod)
+- [Create: Contraption Terminals](https://www.curseforge.com/minecraft/mc-mods/create-contraption-terminals)
+- [FastEvent](https://www.curseforge.com/minecraft/mc-mods/fast-event)
+- [Notes](https://www.curseforge.com/minecraft/mc-mods/notes)
+- [Real Filing Reborn](https://www.curseforge.com/minecraft/mc-mods/real-filing-reborn-cabinet-based-item-storage)
+- [Stellaris](https://www.curseforge.com/minecraft/mc-mods/stellaris)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- The @Champions bosses can now drop more powerful gear (including modded items!). <br />
+  (Note: This varies from Tools, Weapons & Armor. Plus other stuff.) <br />
+  (In short: It's now worth to try and kill any @Champions bosses.)
+- Nerfed the "Adaptable", "Dampened", "Desecrating" & "Hasty" @Champions affixes.
+- Removed the "Move matching items" button from the @RS Autocrafting GUI.
+- Blacklisted lots of "trash" from the Loot Bundle loot table.
+- Most Raw Ore Blocks can now be smelted into Metal Blocks.
+- Added additional mobs that @Champions can spawn as.
+- Lower tiered @Champions are now a bit more common.
+- Creepers can no longer become a @Champions boss.
+- Disabled the "Shielding" @Champions affix.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a few recipe conflicts.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.169
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 > ### A few new mods, changes, fixes & more! <br />
