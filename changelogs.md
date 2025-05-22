@@ -1,3 +1,61 @@
+<h1>v1.4.0</h1>
+
+> ### Performance & QoL focused update- plus some new mods, changes & fixes. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Create: Escalated](https://www.curseforge.com/minecraft/mc-mods/create-escalated)
+- [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks)
+- [Immersive Optimization](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization) <br />
+  (Note: @IO is added as a test, see how stable it is or if anything weird happens.)
+
+
+### **Removed**
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) <br />
+  (Replaced by: [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks).)
+
+
+### **Notable Changes**
+- The following mobs can no longer become [@Champions](https://www.curseforge.com/minecraft/mc-mods/champions-unofficial) bosses: Elder Guardian, Ender Dragon, Endermite, Shulker, Silverfish, Slime, Warden & Wither.
+- Supported tools & armor can now be converted to their Silent Gear counterparts and keep their NBT data.
+- Enabled the NeoForge energy compat in [@Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization).
+- Some performance improvements (fps & tps).
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A duplication exploit has been fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.169
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.3.0</h1>
 
 > ### Space? QoL changes, general changes + fixes & more. <br />
