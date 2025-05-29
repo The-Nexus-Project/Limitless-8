@@ -1,3 +1,66 @@
+<h1>v1.5.0</h1>
+
+> ### Malum, Mixed Slabs?, Xtones. QoL, general changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Create Stock Bridge](https://www.curseforge.com/minecraft/mc-mods/create-stock-bridge)
+- [Double Slabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+- [Malum](https://www.curseforge.com/minecraft/mc-mods/malum) (+ [Gaze](https://www.curseforge.com/minecraft/mc-mods/gaze-a-malum-addon))
+- [Simple Loot Viewer](https://www.curseforge.com/minecraft/mc-mods/simple-loot-viewer)
+- [Sophisticated Storage in Motion](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-in-motion)
+- [Xtones Reworked](https://www.curseforge.com/minecraft/mc-mods/xtones-reworked)
+
+
+### **Removed**
+- [Almanac Lib](https://www.curseforge.com/minecraft/mc-mods/almanac-lib) <br />
+  (Reason: Library not needed anymore.)
+
+
+### **Notable Changes**
+- Slabs can now be placed as "double slabs" and mixed with any type of slab available.
+- Made villages from @Overhauled Village mod more rare and spaced out.
+- New @EMI tabs for various sources of loot available.
+- Added Natural Quartz Ore to the Mining Dimension. <br />
+  (Note: Also added all of @Malum's ores aswell.)
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a few minor recipe conflicts.
+- Some log spam is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.169 to 21.1.173.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.173
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.4.0</h1>
 
 > ### Performance & QoL focused update- plus some new mods, changes & fixes. <br />
