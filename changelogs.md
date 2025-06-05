@@ -1,3 +1,59 @@
+<h1>v1.6.0</h1>
+
+> ### New mods, some changes, fixes & mods swapped. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+- [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
+
+
+### **Removed**
+- [Better Modlist](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge) <br />
+  (Note: Replaced by [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) & [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) due to issues.)
+
+
+### **Notable Changes**
+- Made Ancient Debris in the Nether Mining Dimension slightly more common.
+- Made some very slight adjustments to the @Champions loot table.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A few small memory leaks have been fixed.
+- Fixed not being able to bridge downwards.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.173
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.5.0</h1>
 
 > ### Malum, Mixed Slabs?, Xtones. QoL, general changes, fixes & more! <br />
