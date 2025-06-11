@@ -1,3 +1,60 @@
+<h1>v1.7.0</h1>
+
+> ### Performance focused update. Also some changes & fixes! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)
+- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Performance improvements centered around the HUD.
+- Optimizations to the Minecraft networking stack.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed an issue that caused the game to always crash when going over 662 mods. <br />
+  (Credit: Thanks @Mikey!)
+- Fixed a few loot tables being blank.  <br />
+  (Some chests in villages etc.)
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 2 new quests to the @Refined Storage chapter.
+- Minor fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.173
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.6.0</h1>
 
 > ### New mods, some changes, fixes & mods swapped. <br />
