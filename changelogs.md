@@ -24,6 +24,7 @@
 ### **Notable Fixes**
 - Fixed an issue that caused the game to always crash when going over 662 mods. <br />
   (Credit: Thanks @Mikey!)
+- The @Twilight Forest Hollow Hills not generating properly is now fixed.
 - Fixed a few loot tables being blank.  <br />
   (Some chests in villages etc.)
 - (!) Various fixes included in mod updates, as always.
