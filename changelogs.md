@@ -1,3 +1,65 @@
+<h1>v1.8.0</h1>
+
+> ### ⚙️ Hypertubes? New Relics? QoL? Some changes, fixes & more!  <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Create: Hypertubes](https://www.curseforge.com/minecraft/mc-mods/hypertubes)
+- [FTB Ez Crystals](https://www.curseforge.com/minecraft/mc-mods/ftb-ez-crystals)
+- [Mystical Customization](https://www.curseforge.com/minecraft/mc-mods/mystical-customization)
+- [Reliquified L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/reliquified-l-ender-s-cataclysm)
+- [Save Loot Tables](https://www.curseforge.com/minecraft/mc-mods/save-loot-tables)
+- [Simple Backups](https://www.curseforge.com/minecraft/mc-mods/simple-backups)
+
+
+### **Removed**
+- [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) <br />
+  (Reason: Replaced by [Simple Backups](https://www.curseforge.com/minecraft/mc-mods/simple-backups).)
+
+
+### **Notable Changes**
+- Loot tables will now no longer be completely discarded if there is an invalid entry (missing items, etc).
+- Buffed energy storage of the @RS controller significantly.
+- Re-added recipes for @Prefab Grass & Dirt Stairs + Slab.
+- Added Entro Crystal Seed for @Mystical Agriculture.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Maps in item frames not loading for other players in Multiplayer is now fixed.
+- Fixed a recipe conflict with Coal Fragment.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added 1 new quest to the @Mystical Agriculture chapter.
+- Added 5 new quests to the @Relics chapter.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.173
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.7.0</h1>
 
 > ### Performance focused update. Also some changes & fixes! <br />
