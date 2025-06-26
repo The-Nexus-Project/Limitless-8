@@ -1,3 +1,58 @@
+<h1>v1.9.0</h1>
+
+> ### Smaller update this week which brings some fixes, new mods & changes! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Kobolds!](https://www.curseforge.com/minecraft/mc-mods/kobolds)
+- [Storage Delight](https://www.curseforge.com/minecraft/mc-mods/storage-delight-forge)
+- [Synergy](https://www.curseforge.com/minecraft/mc-mods/synergy)
+
+
+### **Removed**
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) <br />
+  (Reason: Caused some annoyances.)
+
+
+### **Notable Changes**
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed various hud elements having a "smearing" effect. <br />
+  (Example: Waypoints from @Journey Map.)
+- Crash reports not generating properly is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.173
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.8.0</h1>
 
 > ### ⚙️ Hypertubes? New Relics? QoL? Some changes, fixes & more!  <br />
