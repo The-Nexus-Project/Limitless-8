@@ -1,3 +1,64 @@
+<h1>v1.12.0</h1>
+
+> ### ⚙️ Flowtech, Camol, QoL, changes, fixes & more. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Camol](https://www.curseforge.com/minecraft/mc-mods/camol)
+- [FlowTech: Mob Systems](https://www.curseforge.com/minecraft/mc-mods/flowtech-mob-systems)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- The "casual rank" can now only be activated if you're an OP or have cheats enabled. <br />
+  (Note: This is to prevent anyone giving themselves admin.)
+- Added a new "admin" rank that has access to every command in the modpack. <br />
+  (Note: It's activated by default if you have cheats enabled or by being OP on a server.)
+- The "default rank" now has access to the "/ftbchunks alias" command.
+- Lowered the cooldown for the "/rtp command" from 60s down to 30s.
+- The default amount of force loaded chunks is now 100 up from 50.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a recipe conflict between waxed planks & expansion boxes.
+- Default generators from @Generator Galore missing is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Updated description of the welcome quest to reflect rank changes.
+- Formatting.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.186 to 21.1.192.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.192
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.11.0</h1>
 
 > ### One new mod. Various changes, fixes & more! <br />
