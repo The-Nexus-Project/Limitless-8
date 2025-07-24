@@ -1,3 +1,65 @@
+<h1>v1.13.0</h1>
+
+> ### 🦀 Crabber's Delight, Omni Grid. Many fixes, some changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight)
+- [Omni Grid](https://www.curseforge.com/minecraft/mc-mods/omni-grid)
+- [Pattern Converter](https://www.curseforge.com/minecraft/mc-mods/pattern-converter)
+- [Tidal Towns](https://www.curseforge.com/minecraft/mc-mods/tidal-towns)
+
+
+### **Removed**
+- [Create: Quality Of Life](https://www.curseforge.com/minecraft/mc-mods/create-qol) <br />
+  (Reason: Causes various rendering issues.)
+
+
+### **Notable Changes**
+- Added @ID Logic Cable as a supported block to @Cable Facades.
+- Added "Infinity Bimetal Gear" recipe to @MetalWorks casting.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- @Create blocks not rendering (being invisible) on certain systems is now fixed. <br />
+  (Credit: Thanks @Geo!)
+- Fixed "/ftbranks add" among other commands not working correctly when admin.
+- Fixed the @Apotheosis Attributes button being in the wrong location.
+- Fixed a recipe conflict between Sand Paper & Suspiscious Sand.
+- Fixed the FTB Trash Can not working.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added BR lang file for quests. <br />
+  (Courtesy of @PrincessStellar.)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.192
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.12.0</h1>
 
 > ### ⚙️ Flowtech, Camol, QoL, changes, fixes & more. <br />
