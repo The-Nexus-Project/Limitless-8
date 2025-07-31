@@ -1,3 +1,68 @@
+<h1>v1.14.0</h1>
+
+> ### 🔋 New mods, performance improvements, critters? Changes + fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Accelerated Rendering](https://www.curseforge.com/minecraft/mc-mods/accelerated-rendering)
+- [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected)
+- [Create: Dreams n' Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires)
+- [Create: Encased](https://www.curseforge.com/minecraft/mc-mods/create-encased)
+- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions)
+- [Integrated Scripting](https://www.curseforge.com/minecraft/mc-mods/integrated-scripting)
+- [Just Dyna Things](https://www.curseforge.com/minecraft/mc-mods/just-dyna-things)
+- [Mekanism Trimming](https://www.curseforge.com/minecraft/mc-mods/mekanism-trimming)
+- [Sodium Addon: Substrate](https://www.curseforge.com/minecraft/mc-mods/substrate-sodium-addon)
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added 131 custom made loading screen tips that were submitted in the TNP Discord. <br />
+  (Want to submit your own? Do so in our [discord](https://discord.gg/gwzpyQb) under #pack-tips!)
+- Some performance improvements in various areas of the game.
+- Removed a leftover dev recipe.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Various fixes related to the @AgriTech planters. <br />
+  (Extracting items from planters, etc.)
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.192 to 21.1.196.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.196
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.13.0</h1>
 
 > ### 🦀 Crabber's Delight, Omni Grid. Many fixes, some changes & more! <br />
