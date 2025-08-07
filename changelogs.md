@@ -1,3 +1,88 @@
+<h1>v1.15.0</h1>
+
+> ### ⚡ Optimizations & QoL focused update. Lots of new mods, changes & fixes! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AgriTech: Evolved](https://www.curseforge.com/minecraft/mc-mods/agritech-evolved)
+- [Almost Unified: IE](https://www.curseforge.com/minecraft/mc-mods/almost-unified-ie)
+- [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles)
+- [Buried Wrecks](https://www.curseforge.com/minecraft/mc-mods/buriedwrecks)
+- [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean)
+- [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful)
+- [OPack2Reload](https://www.curseforge.com/minecraft/mc-mods/opack2reload)
+- [Pastel](https://www.curseforge.com/minecraft/mc-mods/pastel)
+- [Stardew Fishing](https://www.curseforge.com/minecraft/mc-mods/stardew-fishing)
+- [Umbral Skies](https://www.curseforge.com/minecraft/mc-mods/umbral-skies)
+
+
+### **Removed**
+- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) <br />
+  (Reason: [@FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) has this functionality built-in now.)
+- [Suggestion Provider Fix](https://www.curseforge.com/minecraft/mc-mods/suggestion-provider-fix) <br />
+  (Reason: Now merged into NeoForge itself.)
+
+
+### **Notable Changes**
+- Right-clicking a hoe on farmland no longer plants seeds from adjacents inventory slots.
+- Flying with an Elytra into water makes you start to swim instead of continuing to fly.
+- Music discs that are only dropped by creepers can now be found in loot chests aswell.
+- Client no longer reloads resource packs if the player haven't selected/modified any.
+- Berry bushes will now no longer do any damage when sneaking or wearing leg armor.
+- Creeper explosions now drop all destroyed items instead of only some of them.
+- Mining obsidian-like blocks now takes less time (1.6x faster by default).
+- Disabled duplicate durability tooltip specifically on Mekanism Tools.
+- Lowered the spread rate of "Mint" from @Extra Delight significantly.
+- Config for @Productive Metalworks are now the new default values.
+- You can now use emojis in the multiplayer chat(s) & on signs.
+- Fishing is now a minigame like from the game Stardew Valley.
+- Shipwreck structures can now generate anywhere underground.
+- The lodestone changes introduced in 1.21.5 are now added.
+- Thorns and Soul Speed no longer cause damage to armor.
+- Some optimizations centered around advancements.
+- Cobwebs can now be set on fire and burned.
+- Modified the recipe for the "Magicbane".
+- Added a new saddle recipe.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed the @Sophisticated Storage & @Lootr Chests having flickering textures.
+- The Oak Hopping Planter requiring itself in the recipe is now fixed.
+- Fixed banners not rendering the correct patterns & colors.
+- Fixed a "ticking entity" crash while in desert biomes.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.196 to 21.1.197.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.197
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.14.0</h1>
 
 > ### 🔋 New mods, performance improvements, critters? Changes + fixes & more! <br />
