@@ -1,3 +1,39 @@
+<h1>v1.15.1</h1>
+
+> ### 🐛 Minor hotfix. Includes a fix to broken particles. <br />
+> ### Read the full changelog for the v1.15.0 update here: **[[GitHub Changelog]](https://github.com/The-Nexus-Project/Limitless-8/blob/main/changelogs.md#v1150)**
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Removed**
+- [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles) <br />
+  (Reason: Caused particles to become blurry and broken.) <br />
+  (Will be re-added if fixed.)
+
+
+### **Notable Fixes**
+- Fixed particles becoming blurry and broken when switching dimension.
+
+
+### **Current NeoForge Version**
+- 21.1.197
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.15.0</h1>
 
 > ### ⚡ Optimizations & QoL focused update. Lots of new mods, changes & fixes! <br />
