@@ -1,3 +1,75 @@
+<h1>v1.16.0</h1>
+
+> ### ➕ Smaller but a good update this week with some fixes & changes. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [BoatView360](https://www.curseforge.com/minecraft/mc-mods/boatview360)
+- [Cut Through](https://www.curseforge.com/minecraft/mc-mods/cut-through)
+- [Mystical Automation](https://www.curseforge.com/minecraft/mc-mods/mystical-automation)
+
+
+### **Removed**
+- [Clean Swing](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) <br />
+  (Note: Replaced by: [Cut Through](https://www.curseforge.com/minecraft/mc-mods/cut-through).)
+
+
+### **Notable Changes**
+- Increased the maximum total energy capacity of @Omnigrid up to 20,000 from 1,000.
+- Blazing Crystals can now be made faster by energizing a Block of Blaze Rod.
+- Enabled Mob Icons on the minimap by default instead of needing to hold tab.
+- Added more possible items/blocks that can drop from Loot Bundles.
+- Full 360° camera rotation while seated in a boat is now possible.
+- Blacklisted more GUIs to not include the sort buttons.
+- Unfocused (tabbed out) fps is now 10 instead of 1.
+- Increased the text scale under the minimap a bit.
+- Added Storage Blocks for Blaze Rod & Gunpowder.
+- Added lots of @Silent Gear salvaging recipes. <br />
+  (Courtesy of [@P3pp3rF1y](https://www.curseforge.com/members/p3pp3rf1y/projects), thanks!)
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a layer of invisible blocks in the Nether Mining Dimension.
+- Actually fixed the "ticking entity" crash while in desert biomes.
+- Fixed sometimes being unable to break grass, cobweb or similar.
+- Closed a minor duplication exploit.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Added Resource Packs**
+- [Glowing Emissive Ores](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores)
+- [Glowing Emissive Ores - Fusion](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores-fusion) <br />
+  (Note: These are optional and are not enabled by default.)
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.197
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.15.1</h1>
 
 > ### 🐛 Minor hotfix. Includes a fix to broken particles. <br />
