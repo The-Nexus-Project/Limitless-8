@@ -1,3 +1,64 @@
+<h1>v1.17.0</h1>
+
+> ### 📖 End Game chapter added. Some changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added 5 new recipes for creative blocks / items. <br />
+  (Note: Added as an end goal in the newly added End Game chapter.) <br />
+  (More recipes are planned with future upcoming updates.)
+- New block models & textures for @Pipez pipes.
+- Removed duplicate ".bak" config files.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a recipe conflict with Lapis Shard.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added a new "End Game" chapter which features recipes for Creative blocks & items. <br />
+  (Note: More creative recipes will be added in future pack updates.) <br />
+  (A chapter made for the completionists.)
+
+
+### **Added Resource Packs**
+- [Pretty X Smart Pipez](https://www.curseforge.com/minecraft/texture-packs/pretty-x-smart-pipez)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.197
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.16.0</h1>
 
 > ### ➕ Smaller but a good update this week with some fixes & changes. <br />
