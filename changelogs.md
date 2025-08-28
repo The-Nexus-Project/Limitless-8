@@ -1,3 +1,81 @@
+<h1>v1.18.0</h1>
+
+> ### 📦 Lots of new mods! New Cave Biomes, worldgen structures. Changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Cataclysm: Spellbooks](https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks)
+- [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators)
+- [GeOre](https://www.curseforge.com/minecraft/mc-mods/geore)
+- [GeOre Nouveau](https://www.curseforge.com/minecraft/mc-mods/geore-nouveau)
+- [Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/growth-accelerator-tiers)
+- [Hostile Neural Industrialization](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-industrialization)
+- [More Sniffer Flowers](https://www.curseforge.com/minecraft/mc-mods/more-sniffer-flowers)
+- [PackagedAuto](https://www.curseforge.com/minecraft/mc-mods/packagedauto)
+- [PackagedExCrafting](https://www.curseforge.com/minecraft/mc-mods/packagedexcrafting)
+- [Refined Types](https://www.curseforge.com/minecraft/mc-mods/refined-types)
+- [Save My Shaky Network](https://www.curseforge.com/minecraft/mc-mods/smsn)
+- [Slab Machines](https://www.curseforge.com/minecraft/mc-mods/slab-machines)
+- [TrimsEffects](https://www.curseforge.com/minecraft/mc-mods/trimseffects)
+- [Underground Villages: Stoneholm](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm)
+- [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now find lots of additional geodes underground consisting of a variety of materials. <br />
+  (Note: These can be farmed and as act as a new way to get resources!)
+- Specific Trims on armor now gets you different effects based on what trim you're using. <br />
+  (Example: With the "dune" trim you will get "speed" level 1.)
+- The following mobs can no longer become a @Champions boss: Magma Cube. <br />
+- Made the @Cataclysm worldgen structures more common.
+- Loot Bundles no longer drop from @Champions bosses. <br />
+  (Note: This is no longer an intended feature.)
+- You can now find additional villages underground.
+- Added a few new loading screen tips.
+- Disabled Slime & Magma Cube trails.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Creeper explosions not respecting the "mobGriefing" gamerule has been fixed.
+- A crash when using Turkish system locale is now fixed.
+- Fixed a few recipes conflicts.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed a broken texture in the @Productive Trees chapter.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.197 to 21.1.206.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.206
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.17.0</h1>
 
 > ### 📖 End Game chapter added. Some changes, fixes & more! <br />
