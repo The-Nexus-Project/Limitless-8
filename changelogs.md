@@ -1,3 +1,64 @@
+<h1>v1.19.0</h1>
+
+> ### ➕ QoL. Few mods removed, various changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement)
+
+
+### **Removed**
+- [Accelerated Rendering](https://www.curseforge.com/minecraft/mc-mods/accelerated-rendering) <br />
+  (Reason: Caused way too many rendering issues, flickering mobs, block entities, etc.)
+- [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks) <br />
+  (Reason: Functionality is now included in [Utilitarian](https://www.curseforge.com/minecraft/mc-mods/utilitarian).)
+- [Stardew Fishing](https://www.curseforge.com/minecraft/mc-mods/stardew-fishing) <br />
+  (Reason: Removed due to accessibility issues.)
+
+
+### **Notable Changes**
+- The Piglin Brute mob can no longer become a @Champions boss mob.
+- Villages will now attempt to generate on more flat surfaces.
+- Blacklisted additional GUIs to not include sort buttons.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Various blocks, block entities, entities having rendering issues or flickering issues are now fixed.
+- The "Loot Piñata" affix missing among other quirks in @Apotheosis are now fixed.
+- Picked up items sometimes becoming unstackable is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed "Creative Jetpack" quest completing with any jetpack.
+- Text formatting fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.206
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.18.0</h1>
 
 > ### 📦 Lots of new mods! New Cave Biomes, worldgen structures. Changes, fixes & more! <br />
