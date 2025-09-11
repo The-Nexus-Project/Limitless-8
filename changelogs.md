@@ -1,3 +1,71 @@
+<h1>v1.20.0</h1>
+
+> ### 🦔 New Animals, Ships?, Ribbits? Custom Sandwiches? Changes, some fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [BBL Routers](https://www.curseforge.com/minecraft/mc-mods/bbl-routers)
+- [Create Ultimine](https://www.curseforge.com/minecraft/mc-mods/create-ultimine)
+- [Create: Copycats](https://www.curseforge.com/minecraft/mc-mods/copycats)
+- [Detected setBlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/detected-setblock-be-gone)
+- [Homesteads](https://www.curseforge.com/minecraft/mc-mods/homesteads)
+- [Raided](https://www.curseforge.com/minecraft/mc-mods/raided)
+- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits)
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+- [Some Assembly Required](https://www.curseforge.com/minecraft/mc-mods/some-assembly-required)
+- [[Let's Do] WilderNature](https://www.curseforge.com/minecraft/mc-mods/lets-do-wildernature)
+- [Woot Revived](https://www.curseforge.com/minecraft/mc-mods/woot-revived)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added a new Creative Recipe for the "Creative Source Jar" from @Ars Nouveau.
+- A wide variety of new animals have been added, around 15.
+- Added more possible loot to the Loot Bundle loot table.
+- Blacklisted new GUIs from including sort buttons.
+- Hid some invalid items showing up in @EMI.
+- Disabled most of @Jade's default keybinds.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed @EMI not properly hiding any configured hidden items or blocks.
+- The "Detected setBlock" & other spam in the console/logs is now fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added a new quest to the End Game chapter: "Creative Source Jar" from @Ars Nouveau.
+- Formatting.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.206
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.19.0</h1>
 
 > ### ➕ QoL. Few mods removed, various changes, fixes & more! <br />
