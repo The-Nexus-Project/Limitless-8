@@ -1,3 +1,59 @@
+<h1>v1.21.0</h1>
+
+> ### ➕ Smaller update this week with 3 new mods, mod updates, some fixes & changes. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Horseman](https://www.curseforge.com/minecraft/mc-mods/horseman)
+- [No Structure Overlap](https://www.curseforge.com/minecraft/mc-mods/no-structure-overlap)
+- [Transfer Labels](https://www.curseforge.com/minecraft/mc-mods/transfer-labels)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Structures in the world will now be be less likely to be overlapping with each other.
+- Horses can now swim in water while ridden by holding the jump key.
+- Horses can now be transported in boats.
+- Removed an invalid loading screen tip.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.206 to 21.1.209.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.209
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.20.0</h1>
 
 > ### 🦔 New Animals, Ships?, Ribbits? Custom Sandwiches? Changes, some fixes & more! <br />
