@@ -1,3 +1,65 @@
+<h1>v1.22.0</h1>
+
+> ### ⚡ New mods. QoL + general changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Apotheosis x Iron's Spellbooks Compat](https://www.curseforge.com/minecraft/mc-mods/apotheosis-x-irons-spellbooks-compat)
+- [Create: Filters Anywhere](https://www.curseforge.com/minecraft/mc-mods/create-filters-anywhere)
+- [Shut Up GL Error](https://www.curseforge.com/minecraft/mc-mods/shut-up-gl-error)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Enchantment Descriptions now requires holding shift to be displayed instead of always being on.
+- You can no longer replicate Singularities and some other items. <br />
+(Note: This was not an intended feature!)
+- Reduced some log spam caused by some structure generation.
+- Added additional guide books to the @Eccentric Tome recipe.
+- Some performance improvements centered around worldgen.
+- Silenced the @Woot advancement for killing any entity.
+- Removed yet another invalid loading screen tip.
+- Some small memory improvements.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed the logs being spammed with GL Errors when having unbound keys, etc.
+- Some @Refined Storage autocrafting fixes.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.209
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.21.0</h1>
 
 > ### ➕ Smaller update this week with 3 new mods, mod updates, some fixes & changes. <br />
