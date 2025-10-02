@@ -1,3 +1,57 @@
+<h1>v1.23.0</h1>
+
+> ### 🪶 Two new mods, QoL & general changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Don't Make Me Turn This Boat Around](https://www.curseforge.com/minecraft/mc-mods/dmmttba)
+- [Dungeons Delight](https://www.curseforge.com/minecraft/mc-mods/dungeons-delight)
+
+
+### **Removed**
+- [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) <br />
+  (Reason: It's embedded in [Fright's Delight](https://www.curseforge.com/minecraft/mc-mods/frights-delight).)
+
+
+### **Notable Changes**
+- Added support for additional seeds in @AgriTech planters: Actually Additions, Chococraft, Croptopia, Deep Aether, Doggy Talents Next, Extra Delight, Fish of Theives, Floralis, Oh The Biomes We've Gone, Rustic Delight, Sushi Go Crafting, Synergy, Tropicraft & The Undergarden.
+- Boats will now be aligned with the direction you were facing, making sailing smoother.
+- Jungle Saplings in @AgriTech planters can now drop bananas.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.209
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.22.0</h1>
 
 > ### ⚡ New mods. QoL + general changes, fixes & more! <br />
