@@ -1,3 +1,63 @@
+<h1>v1.24.0</h1>
+
+> ### ⚡ New mods, new loot for loot bundles, general changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Modular Bees](https://www.curseforge.com/minecraft/mc-mods/modular-bees)
+- [Oritech Things](https://www.curseforge.com/minecraft/mc-mods/oritech-things)
+- [StarbuncleMania](https://www.curseforge.com/minecraft/mc-mods/starbunclemania)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- More items from @Refined Storage can now drop from Loot Bundle(s).
+- Made village generation more common.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed various recipe conflicts.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Fixed an invalid reward in the @Productive Trees chapter.
+- Some text formatting fixes.
+
+
+### **Added Resource Packs**
+- [AE2 Blackout](https://www.curseforge.com/minecraft/texture-packs/ae2-blackout) <br />
+(Note: Not enabled by default.)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.209
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.23.0</h1>
 
 > ### 🪶 Two new mods, QoL & general changes, fixes & more! <br />
