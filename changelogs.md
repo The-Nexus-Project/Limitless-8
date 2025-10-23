@@ -1,3 +1,64 @@
+<h1>v1.26.0</h1>
+
+> ### ➕ New mods, Quality of life, general changes & fixes + more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars NumericHUD](https://www.curseforge.com/minecraft/mc-mods/ars-numerichud)
+- [EL: Cursed Ring](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy-cursed-ring)
+- [Missing Mods Warning](https://www.curseforge.com/minecraft/mc-mods/missing-mods-warning)
+- [NaNny (Fix NaN Health)](https://www.curseforge.com/minecraft/mc-mods/nanny)
+- [Network Protocol Disconnect](https://www.curseforge.com/minecraft/mc-mods/network-protocol-disconnect-netprodis)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- If a mod has been removed a warning will now be displayed in the world select screen & upon entering it.
+- Added more possible gem/ore drops to the "Boon of the Earth" enchantment.
+- The @Ars Nouveau mana bar now also displays your mana in numbers.
+- Disabled the "water drip" sound from rain.
+- Adjusted a loading screen tip to be valid.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- A "Network Protocol Error" that could occur when unaliving while the game is unfocused in now fixed.
+- A @Compact Machines worldgen crash has been fixed.
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+- Added the "Ring of Seven Curses" as an optional quest in the "Adventure" chapter.
+- Fixed a minor typo.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.209
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.25.0</h1>
 
 > ### 🛠️ A few new mods, some changes, fixes & more. <br />
