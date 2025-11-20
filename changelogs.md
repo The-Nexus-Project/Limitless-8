@@ -1,3 +1,60 @@
+<h1>v1.30.0</h1>
+
+> ### 🛠️ Two new mods, some needed fixes + general changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris)
+- [More Villagers: Missing Buildings](https://www.curseforge.com/minecraft/mc-mods/more-villagers-missing-buildings)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Updated the official EU server to the correct "direct" IP-adress.
+- Cave Mushrooms saturation has been lowered significantly.
+- You now need to sneak when placing Clay Balls (piles).
+- Some performance improvements.
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed placing Clay Balls turning into Clay Piles which ruined mod compatibility. <br />
+(Example: Placing Clay Balls onto pedestals etc.) <br />
+(Note: You now need to sneak to place them.)
+- (!) Various fixes included in mod updates, as always.
+
+
+### **Quests**
+-  No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.215
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.29.0</h1>
 
 > ### ☀️ Mod updates, a mod removed & more! <br />
