@@ -1,3 +1,54 @@
+<h1>v1.31.0</h1>
+
+> ### 🔧 Smaller update this week with some changes & fixes. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- No mods added.
+
+
+### **Removed**
+- [Screenshot Viewer](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer) <br />
+  (Reason: Causes issues/crashes, will be re-added if fixed.)
+
+
+### **Notable Changes**
+- (!) Various changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Worked around an issue causing "Tick" to be spammed in the server console.
+- (!) More than usual amount of mods updated this week with fixes.
+
+
+### **Quests**
+-  No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.215
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.30.0</h1>
 
 > ### 🛠️ Two new mods, some needed fixes + general changes & more! <br />
