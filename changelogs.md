@@ -1,3 +1,61 @@
+<h1>v1.32.0</h1>
+
+> ### 🎣 New fishing minigame, some smaller changes, fixes & more! <br />
+
+**Note: The mod [@Mob Flow Utilities](https://www.curseforge.com/minecraft/mc-mods/mob-flow-utilities) had its Mod ID changed, be aware of missing blocks/items!** <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Starcatcher](https://www.curseforge.com/minecraft/mc-mods/starcatcher)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Lots of new fishes are now available, along with a new fishing minigame. <br />
+  (Note: This is exclusive to a new Fishing Rod.)
+- Added a new Creative Recipe: @OmniGrid Creative Upgrade. <br />
+  (Credit: Provided and made by @DatJaneDoe.)
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- A crash when using @Create's ponder feature is now fixed.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- Added one new quest the the Adventure chapter.
+- Added a new quest to the End Game chapter.
+- Small fixes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.215
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.31.0</h1>
 
 > ### 🔧 Smaller update this week with some changes & fixes. <br />
