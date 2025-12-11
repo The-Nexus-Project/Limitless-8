@@ -1,3 +1,60 @@
+<h1>v1.33.0</h1>
+
+> ### 🪐 RFTools Dimensions, PSI, even more Relics, some changes + fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [More Relics](https://www.curseforge.com/minecraft/more-relics)
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+- [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
+- [RFTools Dimensions](https://www.curseforge.com/minecraft/rftools-dimensions)
+- [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
+
+
+### **Removed**
+- [Substrate](https://www.curseforge.com/minecraft/substrate-add-on) <br />
+  (Reason: Currently causes crashes, will be re-added if fixed.)
+
+
+### **Notable Changes**
+- Added ores from [@Mob Flow Utilities](https://www.curseforge.com/minecraft/mc-mods/mob-flow-utilities) to respective Mining Dimensions.
+- Disabled duplicate "firefly" particle effects found in world.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed Overworld Mining Dimension not generating any ores at all.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.215
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.32.0</h1>
 
 > ### 🎣 New fishing minigame, some smaller changes, fixes & more! <br />
