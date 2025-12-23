@@ -1,3 +1,65 @@
+<h1>v1.35.0</h1>
+
+> ### 🎄 Merry Christmas, Happy Holidays & Happy New Years! 🎆 <br />
+> ### 🦋 New Animals, QoL, general changes, fixes & more!
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [BetterBlockZ](https://www.curseforge.com/minecraft/mc-mods/betterblockz)
+- [Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults)
+- [Re:Animal](https://www.curseforge.com/minecraft/mc-mods/re-animal)
+
+
+### **Removed**
+- [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) <br />
+  (Reason: Replaced by [Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults).)
+
+
+### **Notable Changes**
+- The mod [@XtonesReworked](<https://www.curseforge.com/minecraft/mc-mods/xtones-reworked>) has been disabled & hidden in favor of [@BetterBlockZ](<https://www.curseforge.com/minecraft/mc-mods/betterblockz>), which is a newer port of the mod from the original author. <br />
+  (Note: Mod is not being removed to avoid breaking existing saves.)
+- If modifying the LL8-instance through CurseForge some mods will now be locked, this indicates issues and they should be left unupdated.
+- The "Gloomwood Barrels" from [@Mob Flow Utilities](https://www.curseforge.com/minecraft/mc-mods/mob-flow-utilities) have been removed, empty them out before updating. <br />
+  (Note: Ores & Wood types have also been removed, expect some holes in terrain & ground.)
+- User Options, Keybinds, Journey Map & ESM configs are now properly preserved upon modpack updates. <br />
+  (Info: These will no longer get overridden when updating an existing instance of LL8 to a new version.)
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed the Breaking Texture flickering on servers when standing close to a block at eye level.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- Updated/re-added the "PT_BR" localization file. <br />
+  (Courtesy of @PrincessStellar.)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.215
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.34.0</h1>
 
 > ### ⚡ Some optimizations, Straw Golem? Changes, fixes & more! <br />
