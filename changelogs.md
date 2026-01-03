@@ -1,3 +1,60 @@
+<h1>v1.36.0</h1>
+
+> ### 🎆 **New year, more pack updates! New mod, some changes, fixes & more!** <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Just Enough Immersive Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-immersive-multiblocks)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now calculate @IE multiblock construction cost through EMI.
+- Disabled the generation of Geysers to prevent log spam. <br />
+  (Note: Only affects new worlds and new chunks, existing Geysers will still cause log spam. Sorry about this.) <br />
+  (This issue is reported, and is hopefully being fixed soon.)
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed some block models having an "x-ray" effect when placed facing towards a wall or similar. <br />
+  (This would affect the Inscriber, Mechanical Drying Basin, Molecular Assembler, and many more.)
+- A crash when sorting containers is now fixed.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.215 to 21.1.217.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.217
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.35.0</h1>
 
 > ### 🎄 Merry Christmas, Happy Holidays & Happy New Years! 🎆 <br />
