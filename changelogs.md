@@ -1,3 +1,56 @@
+<h1>v1.37.0</h1>
+
+> ### 🔥 A new hellish trial structure, new mods- changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Loot Integrations: Underground Villages, Stoneholm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-underground-villages-stoneholm)
+- [Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Increased the total amount of fluid stored in: Blaze Enchanter, Blaze Forger, XP Lantern, Mech Grindstone & Printer by 3x.
+- Silenced the "Nether Depths Upgrade" advancement when entering The Nether for the first time.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- The @Omni Grid gift is no longer given on every login.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.217
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.36.0</h1>
 
 > ### 🎆 **New year, more pack updates! New mod, some changes, fixes & more!** <br />
