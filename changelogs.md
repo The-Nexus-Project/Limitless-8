@@ -1,3 +1,65 @@
+<h1>v1.38.0</h1>
+
+> ### 🐉 Draconic Evolution, new cave biomes, structures. Changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Display Delight](https://www.curseforge.com/minecraft/mc-mods/display-delight)
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
+- [PackagedDraconic](https://www.curseforge.com/minecraft/mc-mods/packageddraconic)
+- [Sophisticated Item Actions](https://www.curseforge.com/minecraft/mc-mods/sophisticated-item-actions)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now highlight nearby storages, deposit items, and restock items based on what you are holding making everyday inventory management faster and more intuitive. <br />
+  (Read more here: [Sophisticated Item Actions](https://www.curseforge.com/minecraft/mc-mods/sophisticated-item-actions).)
+- In The End far, far away.. a new type of guardian can be found. Some say it unleashes chaos.
+- You can now place down most foods from @Farmer's Delight for decoration purposes.
+- Added Invar Ingot recipe to the @Oritech Foundry & @Ender IO Alloy Smelter.
+- The "Topaz Geode" from @Pastel will now no longer generates on the surface. <br />
+  (It's generation behaviour now closely gimmicks the vanilla Amethyst Geode.)
+- New cave biomes, structures and more to explore.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- A few crashes from @Create Encased are now fixed.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.217
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.37.0</h1>
 
 > ### 🔥 A new hellish trial structure, new mods- changes, fixes & more! <br />
