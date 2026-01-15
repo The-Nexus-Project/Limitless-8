@@ -25,7 +25,7 @@
 - You can now place down most foods from @Farmer's Delight for decoration purposes.
 - Added Invar Ingot recipe to the @Oritech Foundry & @Ender IO Alloy Smelter.
 - The "Topaz Geode" from @Pastel will now no longer generates on the surface. <br />
-  (It's generation behaviour now closely gimmicks the vanilla Amethyst Geode.)
+  (It's generation behaviour now closely mimics the vanilla Amethyst Geode.)
 - New cave biomes, structures and more to explore.
 - (!) Some changes included within mod updates.
 
