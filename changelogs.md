@@ -1,3 +1,61 @@
+<h1>v1.40.0</h1>
+
+> ### ☀️ Dyson Cube?, Immersive Petroleum. Some changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Dyson Cube Project](https://www.curseforge.com/minecraft/mc-mods/dyson-cube-project)
+- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+- [Smart Particles](https://www.curseforge.com/minecraft/mc-mods/smart-particles)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added new crafting recipes to "break down" most of @GeOre's blocks back into a few shards. <br />
+  (Notes: Any pickaxe is required. 1 durability will be taken off it per craft!) <br />
+  (A future update will add recipes to some machines to break them down with a 100% return on shards.)
+- Bauxite Dust (& tiny) can now be smelted into Aluminum Ingot (& nugget).
+- General optimizations centered around particles.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a few issues related to custom recipes.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.217 to 21.1.219.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.39.0</h1>
 
 > ### ✨ Smaller update this week which brings mod updates and some changes + fixes! <br />
