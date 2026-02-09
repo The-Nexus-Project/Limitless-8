@@ -1,3 +1,55 @@
+<h1>v1.41.0</h1>
+
+> ### ⚡ Smaller update with some fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- No mods added.
+
+
+### **Removed**
+- [Cardiac](https://www.curseforge.com/minecraft/mc-mods/cardiac) <br />
+  (Reason: Too many particles when killing mobs with a large health pool, causing lag.) <br />
+  (This goes for some player-kill mob farms too.)
+
+
+### **Notable Changes**
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- @Starcatcher Fishing not working on dedicated servers is now fixed.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.40.0</h1>
 
 > ### ☀️ Dyson Cube?, Immersive Petroleum. Some changes, fixes & more! <br />
