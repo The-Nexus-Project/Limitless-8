@@ -1,3 +1,68 @@
+<h1>v1.42.0</h1>
+
+> ### 🪞 Hook Launchers, Step Crafters, Portal Guns? Fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)
+- [Advancement Frames](https://www.curseforge.com/minecraft/mc-mods/advancement-frames)
+- [Aperture Innovations](https://www.curseforge.com/minecraft/mc-mods/aperture-innovations)
+- [Step Crafter](https://www.curseforge.com/minecraft/mc-mods/step-crafter)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Disabled @Modular Routers compat for @Create: Filters Anywhere due to a crash. <br />
+  (Note: Will be re-enabled when compat is fixed.)
+- Increased @AgriTech's Operation Speed & Energy for these modules: <br />
+  (**MK1 Speed Multiplier** - **x1.1 → x1.5**). <br />
+  (**MK2 Speed Multiplier** - **x1.25 → x2.5**). <br />
+  (**MK3 Speed Multiplier** - **x1.5 → x4.0**). <br />
+   **━━━━━━━━━━━━━━━━** <br />
+  (**MK1 Power Multiplier** - **x1.1 → x1.25**). <br />
+  (**MK2 Power Multiplier** - **x1.25 → x1.75**). <br />
+  (**MK3 Power Multiplier** - **x1.5 → x2.25**). <br />
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- A crash related to @Create: Filters Anywhere & @Modular Routers is now "fixed".
+- Fixed a recipe conflict for: @Functional Storage: Netherite Upgrade. <br />
+  (Note: Recipe changed from requiring a Netherite Ingot to Dust.)
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- Replaced rewards for some quests that had items from recently removed mod @Cardiac.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.41.0</h1>
 
 > ### ⚡ Smaller update with some fixes, changes & more! <br />
