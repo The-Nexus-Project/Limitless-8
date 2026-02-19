@@ -1,3 +1,62 @@
+<h1>v1.43.0</h1>
+
+> ### ⭐ An update with some general changes, fixes & mod additions. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ancient Iron](https://www.curseforge.com/minecraft/mc-mods/wolfs-ancient-iron)
+- [Smooth Movement](https://www.curseforge.com/minecraft/mc-mods/smooth-movement)
+- [Tag Localization Fixes](https://www.curseforge.com/minecraft/mc-mods/tag-localizations)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Various affixes from @Iron's Apotheosis Reforging now allow thems to work with @Ancient Reforgings added rarity material.
+- Made @PneumaticCraft plastic compatible with other various types of plastic available.
+- Re-enabled @Modular Routers compat for @Create: Filters Anywhere, issue is resolved.
+- Budding blocks from @GeOre can now be moved more easily, with e.g. cardboard.
+- Minor optimization centered around bulkcrafting in the crafting table.
+- Entity movement for server and network lag is now more smooth.
+- Added some additional loot to the Loot Bundle loot table.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Various localization fixes to tags.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.42.0</h1>
 
 > ### 🪞 Hook Launchers, Step Crafters, Portal Guns? Fixes, changes & more! <br />
