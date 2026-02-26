@@ -1,3 +1,56 @@
+<h1>v1.44.0</h1>
+
+> ### 🔱 Myths, herbs & tents? Some changes, fixes + more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [[Let's Do] HerbalBrews](https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews)
+- [Myths & Legends](https://www.curseforge.com/minecraft/mc-mods/myths-n-legends)
+- [Simply Tents](https://www.curseforge.com/minecraft/mc-mods/simply-tents)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Increased the "login invulnerable" duration from 1 minute up to 2.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a visual issue when bulkcrafting items inside crafting grids.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.43.0</h1>
 
 > ### ⭐ An update with some general changes, fixes & mod additions. <br />
