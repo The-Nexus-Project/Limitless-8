@@ -1,3 +1,69 @@
+<h1>v1.46.0</h1>
+
+> ### 🧬 QoL. Lots of important fixes. Some changes and more! <br />
+
+> NOTICE! When entering worlds this update you will notice @Ender IO is "MISSING?", don't worry it's not. <br />
+> Just some internal changes within the mod since we've skipped many updates until now. <br />
+> Example: [Imgur](https://imgur.com/a/3maFgp4).
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Unification](https://www.curseforge.com/minecraft/mc-mods/ars-unification)
+- [Reliable Replacer](https://www.curseforge.com/minecraft/mc-mods/reliable-replacer) <br />
+  (Note: Technical addition only.)
+
+
+### **Removed**
+- [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere) <br />
+  (Reason: @Galosphere currently breaks the "NoAI" modifier from @Apothic Spawners.) <br />
+  (Also breaks the Stasis Chamber from @Industrial Foregoing and some other things.)
+
+
+### **Notable Changes**
+- Removed blocks from @Galosphere will be retrogenerated into something fitting so old worlds don't look ridiculous. <br />
+  (Note: Expect some errors in console/logs. This is normal.)
+- Blacklisted lots of items from certain mods in Loot Bundles to prevent invalid items/blocks from dropping.
+- Right-click auto-equip for the Hero's Medallion and Fortune Coin should now be prevented.
+- Made worldgen structures a little bit more common.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed Chest recipe conflicting with the Painted Planks recipe due to a missing tag.
+- The "NoAI" modifier from @Apothic Spawners not working is now fixed.
+- Stasis Chamber from @Industrial Foregoing not working is now fixed.
+- A few issues with the Redstone Clock from @Utilitarian is now fixed.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- Minor changes to the @Ender IO chapter due to mod changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.45.0</h1>
 
 > ### 🔧 New mods, some changes + smaller fixes & more! <br />
