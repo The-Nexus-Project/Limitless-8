@@ -1,3 +1,61 @@
+<h1>v1.47.0</h1>
+
+> ### 🪶 New mods, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Hex Unity](https://www.curseforge.com/minecraft/mc-mods/ars-hex-unity)
+- [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)
+
+
+### **Removed**
+- [Create: Enchantable Machinery](https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery) <br />
+  (Note: Removed due to some crashing issues. Will be re-added if fixed.)
+
+
+### **Notable Changes**
+- New "claim all rewards" functionality for @FTB Quests added.
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed "Alloy Smelter" not being craftable due to a typo in the recipe file. <br />
+  (Also readjusted the recipe back to normal.)
+- Fixed "Overworld" Mining Dimension having no ores.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- The "claim all rewards" feature now tells you what rewards you'll claim & which chapter they're from. <br />
+(Example: [Imgur](<https://imgur.com/a/nLQhCeA>).)
+- Some minor changes to the @Ender IO chapter.
+- Fixed an invalid reward.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.219
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.46.0</h1>
 
 > ### 🧬 QoL. Lots of important fixes. Some changes and more! <br />
