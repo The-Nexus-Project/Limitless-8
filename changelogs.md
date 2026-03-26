@@ -1,3 +1,63 @@
+<h1>v1.48.0</h1>
+
+> ### 🛠️ Important fixes, some changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [KubeJS Integration Addons](https://gist.github.com/Gbergz/3a5213859085eb83bc7510a35b5f42d8) <br />
+  (Click above to see the complete list of KubeJS integration mods added.)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Disabled the "Tips" for @Sophisticated Item Actions that pops up three times a session in top right corner.
+- Turned off the @SubtleEffects "spawnEggUseParticles" config to work around a crash.
+- Added recipes to certain machines to break down @GeOre's blocks back into Shards. <br />
+  (Machines from @Actually Additions, @Ender IO, @Mekanism & @Oritech to start.)
+- (!) Some changes included within mod updates.
+
+
+### **Notable Fixes**
+- A crash when using a Spawn Egg is now fixed.
+- (!) Some fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.219 to 21.1.221.
+- (!) All mods that could be updated have been updated.
+
+
+### **Other**
+- Raised the default ram allocation for the pre-packaged server files from **8GB** -> **10GB**.
+
+
+### **Current NeoForge Version**
+- 21.1.221
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.47.0</h1>
 
 > ### 🪶 New mods, changes, fixes & more! <br />
