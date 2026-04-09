@@ -1,3 +1,71 @@
+<h1>v1.50.0</h1>
+
+> ### ⚡ New mods, some performance improvements, changes + fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Async Logger](https://www.curseforge.com/minecraft/mc-mods/asynclogger)
+- [Cocktails Delight](https://www.curseforge.com/minecraft/mc-mods/cocktails-delight)
+- [Deeper and Darker: Spellbooks](https://www.curseforge.com/minecraft/mc-mods/deeper-and-darker-spellbooks)
+- [DynamiDucts](https://www.curseforge.com/minecraft/mc-mods/dynamiducts)
+- [Kerria](https://www.curseforge.com/minecraft/mc-mods/kerria)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- The Overworld Mining Dimension now no longer has a dirt & grass layer. <br />
+  (Note: Reset the dimension or explore new chunks to see changes.)
+- Added Compressed Blocks (1x - 5x) for Smooth Basalt & Darkstone.
+- Updated the recipe for the "Creative Energy Cell" from @Powah. <br />
+  (Note: Now requires Niotic Battery instead of Niotic Energy Cell.)
+- Loggers are now asynchronous, meaning better performance.
+- Texture animations are now more performant.
+- Added missing "Crop tag" to the Entro crop.
+- (!) Some other changes included within mod updates.
+
+
+### **Notable Fixes**
+- (!) Fixes included within mod updates.
+
+
+### **Quests**
+- Added some tips for the "Creative Lasso" quest on how to get @Reliquary "Liquid XP" into a Tank.
+- Fixed (End Game) "Energy Cell (Creative)" quest not being completable.
+- Fixed (End Game) "Source Jar (Creative)" quest not being completable.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Other**
+- The Mod ID for the mod "Tag Localizations" changed from "tagfixes" -> "taglocalizations". <br />
+  (Expect a "missing mod" when entering existing singleplayer worlds after this update!)
+
+
+### **Current NeoForge Version**
+- 21.1.221
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.49.0</h1>
 
 > ### ✨ Smaller update with important fixes & changes! <br />
