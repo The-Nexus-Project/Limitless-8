@@ -1,3 +1,60 @@
+<h1>v1.51.0</h1>
+
+> ### ⚒️ Important update which includes fixes to a common crash. Plus some changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Simple Backups](https://www.curseforge.com/minecraft/mc-mods/simple-backups)
+
+
+### **Removed**
+- [FTB Backups 3](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-3) <br />
+  (Note: Replaced by: [Simple Backups](https://www.curseforge.com/minecraft/mc-mods/simple-backups).)
+
+
+### **Notable Changes**
+- Added Pipes & Nodes from @Synergy to the @Cable Facades allowed blocks list.
+- (!) Some other changes included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed "java.lang.NoClassDefFoundError" crashes related to Flywheel due to an outdated JiJ'd Flywheel version taking priority. <br />
+  (Note: These crashes could occur randomly in the overworld but most commonly in the nether.)
+- (!) Fixes included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- You will notice two missing mods when entering existing worlds this update, this is normal.
+
+
+### **Current NeoForge Version**
+- 21.1.221
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.50.0</h1>
 
 > ### ⚡ New mods, some performance improvements, changes + fixes & more! <br />
