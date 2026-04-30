@@ -1,3 +1,65 @@
+<h1>v1.53.0</h1>
+
+> ### 🛡️ One new mod, a few changes, some fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Armor Hider](https://www.curseforge.com/minecraft/mc-mods/armor-hider)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now hide supported armor with an opacity slider in Options (icon to the left). <br />
+  (Features: Per-slot opacity, enchantment glint control & more.)
+- Blacklisted a few more guis to prevent sort buttons from overlapping.
+- Disabled "version checker" for various mods.
+- Removed an invalid loading screen tip.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- The "A Terrible Fortress" advancement not triggering when entering a fortress is now fixed.
+- Fixed Invar, Bronze "Nuggets to Ingot" & "Ingot to Nuggets" recipes missing.
+- Fixed "Tank & Bank Link" both being uncraftable.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Fixed an invalid texture in some chapters.
+
+
+### **Notes**
+- @Armor Hider default keybind is unbound by default for new installs, for existing users this will conflict with @Journey Map. <br />
+  (Manually unbinding this is recommended to maintain @Journey Map usage!)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.227
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.52.0</h1>
 
 > ### ⚖️ Couple new mods, QoL with some changes, fixes & more! <br />
