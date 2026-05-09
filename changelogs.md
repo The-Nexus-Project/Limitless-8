@@ -27,7 +27,7 @@
 
 
 ### **Quests**
-- Fixed an invalid texture in some chapters.
+- No changes.
 
 
 ### **Updated**
