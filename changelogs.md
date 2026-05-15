@@ -1,3 +1,77 @@
+<h1>v1.55.0</h1>
+
+> ### 🐋 New mods, rideable whales? Changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Energized Power - Croptopia](https://www.curseforge.com/minecraft/mc-mods/energized-power-croptopia) & [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/energized-power-farmers-delight).
+- [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
+- [The Brazilian Localization Project [PT-BR]](https://www.curseforge.com/minecraft/texture-packs/brazilian-project) <br />
+  (Note: This resource pack replaces: [AllTheTranslations [PT-BR]](https://www.curseforge.com/minecraft/texture-packs/allthetranslations).)
+- [Whaleborn](https://www.curseforge.com/minecraft/mc-mods/whaleborne)
+
+
+### **Removed**
+- [Krypton Reno](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp) <br />
+  (Reason: Causes various server issues, if fixed it'll be re-added.)
+- [More Villagers: Missing Buildings](<https://www.curseforge.com/minecraft/mc-mods/more-villagers-missing-buildings>) <br />
+  (Reason: Depends on a version that doesn't exist.)
+
+
+### **Notable Changes**
+- Added compatibility between @Energized Power and @Famer's Delight + @Croptopia.
+- Increased maximum packet size, nbt max size to prevent possible issues.
+- There's something stirring in the deep..something powerful.. <br />
+  (Rideable whales can now be found in the deepest of oceans.)
+- Added a recipe for the "HOP Graphite Ingot". <br />
+  (Not that its needed, but now it's there.)
+- Some memory usage improvements / fixes.
+- Slight performance improvements.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed not being able to pickup player dropped items for 10 whole seconds.
+- Fixed the recipe for Coke Block alternating between two different types.
+- A crash when attempting to place the @Omni Grid is now fixed.
+- Fixed quite a lot of recipe conflicts.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.227 to 21.1.229.
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a "missing mods" warning when entering existing singleplayer worlds this update. <br />
+  (Note: This is normal!)
+
+
+### **Current NeoForge Version**
+- 21.1.229
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.54.0</h1>
 
 > ### 🧬 One new mod, changes, fixes & more! <br />
