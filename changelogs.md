@@ -64,11 +64,10 @@
 
 
 
-**Need a server to play with your friends? or just don't know how to set one up?**
+---------------
 
-**Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/gbergz?r=TNPLimitless8)
 
 ---------------
 
