@@ -1,3 +1,66 @@
+<h1>v1.56.0</h1>
+
+> ### 🔮 Enigmatic Legacy, QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ars Polymorphia](https://www.curseforge.com/minecraft/mc-mods/ars-polymorphia)
+- [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+- [Colorwheel Patcher](https://www.curseforge.com/minecraft/mc-mods/colorwheel-patcher)
+- [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel)
+- [Enigmatic Legacy Plus](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy-plus)
+- [Polymorphic Occultism](https://www.curseforge.com/minecraft/mc-mods/polymorphic-occultism)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Supported shaderpacks will now be "patched" at boot to be made compatible with newly added @Colorwheel.
+- Moved the @Doggy Talents "Dog Inventories" button to make room for the @Enigmatic Legacy buttons.
+- The F3 menu has been cleaned up to improve performance, now mimics the look of later MC versions. <br />
+  (Note: Can be customized further or to your liking by using "F3 + M" in-game.)
+- Made village generation (including modded ones) more common.
+- Added @Polymorph support for @Ars Nouveau & @Occultism.
+- @Extended Terminal mod now supports @Polymorph.
+- Adjusted the "salt" for a lot of worldgen structures.
+- @Iris shaders is now compatible with @Flywheel.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed possible structure overlap during world generation.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.229
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.55.0</h1>
 
 > ### 🐋 New mods, rideable whales? Changes, fixes & more! <br />
