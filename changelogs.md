@@ -1,3 +1,68 @@
+<h1>v1.57.0</h1>
+
+> ### 🐻🔧 Naturalist, Logistics Network. Changes, incl. QoL, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Logistics Network](https://www.curseforge.com/minecraft/mc-mods/logistics-network)
+- [Mech Trowel](https://www.curseforge.com/minecraft/mc-mods/mech-trowel)
+- [MekaGenJEI](https://www.curseforge.com/minecraft/mc-mods/mekagenjei-mekanism-generator-addon)
+- [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+- [Starcatcher's Delight](https://www.curseforge.com/minecraft/mc-mods/starcatchers-delight)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added new @EMI categories for @Mekanism Generators which provide useful information.
+- The @Crafting on a Stick crafting table no longer stores items to prevent possible issues.
+- The spirits dropped from @Malum will now simply take the form of an item instead. <br />
+  (Note: This is done for performance reasons.)
+- Blacklisted more items from the Loot Bundles loot table to prevent a specific crash.
+- Blacklisted almost all @Monster Plus mobs from Dreadful Dirt spawns.
+- Blacklisted a few more guis to prevent sort buttons from overlapping.
+- Added "Etherium Ore" to the End Mining Dimension as a rare ore.
+- Added an "over the top" alternate way to get "Chaos Shard".
+- Added targeted block id, entity & fluid to the F3 menu.
+- New vanilla friendly animals added.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a crash when opening a loot bundle.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Fixed some invalid formatting.
+- Minor changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.229
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.56.0</h1>
 
 > ### 🔮 Enigmatic Legacy, QoL, changes, fixes & more! <br />
