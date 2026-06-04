@@ -1,3 +1,59 @@
+<h1>v1.58.0</h1>
+
+> ### 🌱 Two new mods, some changes & fixes + more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Effect Insights](https://www.curseforge.com/minecraft/mc-mods/effect-insights)
+- [Enchantment Insights](https://www.curseforge.com/minecraft/mc-mods/enchantment-insights)
+
+
+### **Removed**
+- [Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement) <br />
+  (Reason: Causes Villages to become too rare.)
+
+
+### **Notable Changes**
+- Added all bees from @Productive Bees to the "neutral whitelist" for the Ring of the Seven Curses.
+- More clear & better formatted enchantment descriptions directly to your item tooltips.
+- Added simple explanations to status effects from potions and food items or similar.
+- Adjusted all structure generation chances slightly. <br />
+  (Note: Villages are affected the most.)
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed all Village generation being basically non-existent.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.229
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.57.0</h1>
 
 > ### 🐻🔧 Naturalist, Logistics Network. Changes, incl. QoL, fixes & more! <br />
