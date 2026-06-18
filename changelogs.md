@@ -7,7 +7,7 @@
 
 
 ### **Added**
-- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/)
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas)
 - [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 
