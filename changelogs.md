@@ -1,3 +1,71 @@
+<h1>v1.60.0</h1>
+
+> ### 💎 Quark, IDAS, lots of fixes + some changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/)
+- [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- The stronghold structure is now more detailed and fancy looking. <br />
+  (Note: This requires a new world to generate.)
+- Added lots of new detailed worldgen structures. <br />
+  (Note: Explore new terrain to find these.)
+- Supported animals now have texture variety.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a camera snapping issue when closing certain guis.
+- Fixed missing Enderman data model from @HNN.
+- Fixed Conductive Alloy Seed being uncraftable.
+- Various @Omni Grid issues are now fixed.
+- Fixed a small memory usage issue.
+- Fixed an AMD specific crash.
+- Fixed a few recipe conflicts.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.229 to 21.1.233.
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (Be aware that this is normal!)
+
+
+### **Current NeoForge Version**
+- 21.1.233
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.59.0</h1>
 
 > ### 🩸 Neo Vitae, more HNN data models, some changes, fixes & more! <br />
