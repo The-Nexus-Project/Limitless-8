@@ -1,3 +1,60 @@
+<h1>v1.61.0</h1>
+
+> ### 🧩 Compat improvements, new mineshafts, screenshot gallery, changes + fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Ascended Quark](https://www.curseforge.com/minecraft/mc-mods/ascended-quark)
+- [Macaw's Quark](https://www.curseforge.com/minecraft/mc-mods/macaws-quark)
+- [Moog's Mineshafts Reimagined](https://www.curseforge.com/minecraft/mc-mods/mmr-moogs-mineshafts-reimagined)
+- [Screenshot Viewer](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added a button called "Screenshots" to the in-game 'pause' menu. <br />
+  (Note: Click to view a gallery with all your screenshots in-game.)
+- Added more interesting variants of mineshafts.
+- Improved "Quark + The Aether" compatibility.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed the block breaking texture flickering at any angle.
+- Fixed a small Nether Wart duplication exploit.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.233
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.60.0</h1>
 
 > ### 💎 Quark, IDAS, lots of fixes + some changes & more! <br />
