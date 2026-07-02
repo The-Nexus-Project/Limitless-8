@@ -1,3 +1,90 @@
+<h1>v1.62.0</h1>
+
+> ### 🚀 Performance improvements, lots of changes, fixes & more! <br />
+
+**NOTE: A fresh install of the modpack is highly recommended for this update!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Better Treasure Map](https://www.curseforge.com/minecraft/mc-mods/treasuredistance)
+- [ByePregen](https://www.curseforge.com/minecraft/mc-mods/bye-pregen)
+- [Calm The Leaks (CTL)](https://www.curseforge.com/minecraft/mc-mods/calm-the-leaks-ctl)
+- [LightspeedRe](https://www.curseforge.com/minecraft/mc-mods/lightspeedre-launch-optimizations)
+- [Optimized Block Entities](https://www.curseforge.com/minecraft/mc-mods/obe)
+- [Polymorph Plus](https://www.curseforge.com/minecraft/mc-mods/polymorph-plus)
+- [Twilight Lootr](https://www.curseforge.com/minecraft/mc-mods/twilight-lootr)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Xaero Plus](https://www.curseforge.com/minecraft/mc-mods/xaeroplus)
+
+
+### **Removed**
+- [Elytra Trims](https://www.curseforge.com/minecraft/mc-mods/elytra-trims) <br />
+  (Reason: Causes resource reload fails.)
+- [FastEvent](https://www.curseforge.com/minecraft/mc-mods/fast-event) <br />
+  (Reason: Currently not functional on NeoForge 1.21.1.)
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) <br />
+  (Reason: Replaced by [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap).)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) <br />
+  (Reason: Replaced by [Polymorph Plus](https://www.curseforge.com/minecraft/mc-mods/polymorph-plus).)
+- [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected) <br />
+  (Reason: Doesn't do much, if anything at all, better to remove.)
+
+
+### **Notable Changes**
+- Pack loading times in general are now a bit faster except the very first install & then boot of the pack.
+- Improved Treasure Maps by displaying distance in blocks to the treasure location.
+- Reduced MSPT spikes and server freezes caused by world generation.
+- A custom Twilight Lootr chest will now spawn for each boss kill. <br />
+  (Note: This allows everyone who participated in the kill to get their own instanced loot.
+- Reduced the lag spike that occurred while EMI is loading up. <br />
+  (Note: At the cost of some fps stability until fully done.)
+- Improved performance & memory a bit.
+- Added 14 new loading screen tips. <br />
+  (Courtesy of: abrachoo, Rulomas, DatJaneDoe & Rift in the TNP Discord!) <br />
+  (Want to submit your own? Write them in the **#tips** channel in [discord](https://discord.gg/gwzpyQb)!
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a "Resource Reload" error when manually adding or reloading resource packs.
+- Fixed / filtered out extreme redundant cases of annoying log & console errors.
+- Fixed the "LAN Server Options" button being misplaced.
+- Fixed Elytra(s) being invisible in EMI.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (8 mods, ish. Be aware that this is normal!)
+- Any "trimmed" Elytras will be deleted this update, sorry about this.
+
+
+### **Current NeoForge Version**
+- 21.1.233
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.61.0</h1>
 
 > ### 🧩 Compat improvements, new mineshafts, screenshot gallery, changes + fixes & more! <br />
