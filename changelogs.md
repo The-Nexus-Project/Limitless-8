@@ -43,7 +43,7 @@
 - Improved performance & memory a bit.
 - Added 14 new loading screen tips. <br />
   (Courtesy of: abrachoo, Rulomas, DatJaneDoe & Rift in the TNP Discord!) <br />
-  (Want to submit your own? Write them in the **#tips** channel in [discord](https://discord.gg/gwzpyQb)!
+  (Want to submit your own? Write them in the **#pack-tips** channel in [discord](https://discord.gg/gwzpyQb)!
 - (!) Many changes not noted are included within mod updates.
 
 
