@@ -1,3 +1,85 @@
+<h1>v1.63.0</h1>
+
+> ### 🔮 New advancements interface, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Lucid Advancements](https://www.curseforge.com/minecraft/mc-mods/lucid-advancements)
+- [Put A Plug In It!](https://www.curseforge.com/minecraft/mc-mods/put-a-plug-in-it)
+
+
+### **Removed**
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) <br />
+  (Note: Replaced by [Lucid Advancements](<https://www.curseforge.com/minecraft/mc-mods/lucid-advancements>).)
+- [Sodium Options API](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api) <br />
+  (Reason: Not compatible with @Sodium's latest updates.)
+
+
+### **Notable Changes**
+- The advancement screen is now improved with a cleaner interface, global progress tracking, powerful search and much more!
+- Attempted to reduce the maximum number of Wisps that can spawn in Swamp type biomes.
+- Restored the intended and default value for neutral anger range (ring of the seven curses).
+- Disabled the @Aether guide book upon entering the dimension for the first time. <br />
+  (Note: It's included in the eccentric tome from the starter kit quest!)
+- Lowered the volume of villagers snoring & the chance of it happening. <br />
+  (Note: This feature can be toggled off in the @Subtle Effects config.)
+- The fog at the very edge of the "render distance" have been improved.
+- Disabled the in-game update notification for @Xaero's World Map.
+- Improved client performance thanks to @Sodium's latest updates. <br />
+  (Note: Depending on the PC this could be a decent performance boost!)
+- Disabled the Otter mob to prevent some performance issues.
+- Disabled the "back" keybind by default on new installs. <br />
+  (Note: Can be rebinded in controls if you need it.)
+- Added new loading screen tips.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed an invalid entry in the @Eccentric Tome recipe.
+- Some @EMI rendering errors are now fixed.
+- Fixed duplicate Food Effects descriptions.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Updated starter kit quest with an updated filled @Eccentric Tome.
+
+
+### **Shaders**
+- [Lumina Shaders - Lite](https://www.curseforge.com/minecraft/shaders/lumina-shader-lite)
+- [Noble Shaders](https://www.curseforge.com/minecraft/shaders/noble-shaders)
+- [Photon Shaders](https://www.curseforge.com/minecraft/shaders/photon-shader)
+- [Reverie Shaders](https://www.curseforge.com/minecraft/shaders/reverie)
+- [Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update.
+
+
+### **Current NeoForge Version**
+- 21.1.233
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.62.0</h1>
 
 > ### 🚀 Performance improvements, lots of changes, fixes & more! <br />
