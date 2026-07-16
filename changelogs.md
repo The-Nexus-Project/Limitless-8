@@ -1,3 +1,59 @@
+<h1>v1.64.0</h1>
+
+> ### 🛩️ Immersive Aircrafts, more compact machines, fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Compact Expansion](https://www.curseforge.com/minecraft/mc-mods/compact-expansion)
+- [Compact Machines Preview Fixer](https://www.curseforge.com/minecraft/mc-mods/compact-machines-preview-fixer)
+- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- The @Immersive Aircrafts dismount & boost keybinds have been changed to CTRL & J. <br />
+  (Note: Existing instances that update will have these conflicting.)
+- Tracked advancements are no longer lost when you restart the game.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a minor recipe conflict between Apple Sauce & Apple Jelly.
+- Fixed Sort Buttons missing in @Sophisticated Storage chests.
+- Fixes to @Compact Machines preview.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.233
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.63.0</h1>
 
 > ### 🔮 New advancements interface, changes, fixes & more! <br />
