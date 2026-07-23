@@ -1,3 +1,71 @@
+<h1>v1.65.0</h1>
+
+> ### 🧬 One new mod, mods removed. QoL, lots of fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles) <br />
+  (Note: Added as a test to see how stable it is.)
+
+
+### **Removed**
+- [Just Enough Immersive Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-immersive-multiblocks) <br />
+  (Reason: Slowed down EMI load times quite a bit.)
+- [More Relics](https://www.curseforge.com/minecraft/mc-mods/more-relics)
+- [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) <br />
+  (Reason: Not compatible with AsyncParticles as of now. It'll be re-added when it is.)
+- [Relics of Rain](https://www.curseforge.com/minecraft/mc-mods/relics-of-rain)
+- [Reliquified L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/reliquified-l-ender-s-cataclysm)
+- [Reliquified Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/reliquified-twilight-forest) <br />
+  (Reasons: These four are not compatible with latest version @[Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod). Will be re-added when updated!)
+
+
+### **Notable Changes**
+- Restored native sorting for @Sophisticated Storage & Backpacks. <br />
+  (Note: Keybind will be unbound for existing users.)
+- Optimizations centered around particles.
+- Improved EMI's load times a bit.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- A rather large memory leak that stemmed from the @Fusion mod is now fixed.
+- Fixed sorting in @Sophisticated Storage & Backpacks being "buggy".
+- Fixed lots of @Mystical Agriculture seeds being hidden in @EMI.
+- Fixed the @Catalogue mod menu not working or showing up.
+- Fixed sorting buttons overlapping in various GUIs.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Refactored the @Relics chapter due to major changes in the mod. <br />
+  (Note: Removed quests and also added new ones.)
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.233 to 21.1.242.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.242
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.64.0</h1>
 
 > ### 🛩️ Immersive Aircrafts, more compact machines, fixes, changes & more! <br />
