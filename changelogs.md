@@ -1,3 +1,54 @@
+<h1>v1.66.0</h1>
+
+> ### 🪶 A few changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- No mods added.
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added Antimony, Titanium, Mithril & Stella support to @IF Laser Drill.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Some fixes to chunk loading.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Fixed a few invalid quest rewards.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.242 to 21.1.244.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.244
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.65.0</h1>
 
 > ### 🧬 One new mod, mods removed. QoL, lots of fixes, changes & more! <br />
