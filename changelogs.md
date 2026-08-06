@@ -1,3 +1,66 @@
+<h1>v1.67.0</h1>
+
+> ### 📖 New mods, QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [EMI Recipe Sharing](https://www.curseforge.com/minecraft/mc-mods/emi-recipe-sharing)
+- [Naturalist Delight](https://www.curseforge.com/minecraft/mc-mods/naturalist-delight)
+- [NoPackCompatCheck](https://www.curseforge.com/minecraft/mc-mods/nopackcompatcheck)
+- [Spell Descriptions](https://www.curseforge.com/minecraft/mc-mods/spell-descriptions-iss)
+- [Wildex Bestiary](https://www.curseforge.com/minecraft/mc-mods/wildex-bestiary)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Added a "Bestiary" that automatically tracks all creatures you "discover", including modded mobs. <br />
+  (Note: Mobs can be discovered by either killing them or looking at them through a spyglass!) <br />
+  (When a mob is successfully discovered a toast will popup top right corner.) <br />
+  (Discovered mobs have in-depth info which can be read in the Wildex.)
+- Resource packs that are incompatibile with MC 1.21.1 will now no longer show up as incompatible.
+- Added descriptions to @Iron's Spellbooks Scroll tooltips.
+- The initial pack "loading background" have been updated.
+- You can now share recipes from @EMI in chat.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- A server sided bug related to chunks not unloading properly and rapidly filling up memory leading to fast crashes is now fixed.
+- Fixed Enderman Data Model being unavailable due to an errored datapack.
+- A smaller memory leak on dimesion change is now fixed.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.244
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.66.0</h1>
 
 > ### 🪶 A few changes, fixes & more! <br />
