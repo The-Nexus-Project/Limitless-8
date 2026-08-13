@@ -1,3 +1,69 @@
+<h1>v1.68.0</h1>
+
+> ### 🧬 New mods, new quests, QoL, changes + fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [EMI QoL Tweaks](https://www.curseforge.com/minecraft/mc-mods/emi-qol-tweaks)
+- [Lootr Liason](https://www.curseforge.com/minecraft/mc-mods/lootr-liason)
+- [Reliquified Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/reliquified-irons-spells-n-spellbooks)
+
+
+### **Removed**
+- [Bye Pregen](https://www.curseforge.com/minecraft/mc-mods/bye-pregen) <br />
+  (Reason: Causes some severe memory issues server side.)
+
+
+### **Notable Changes**
+- Closing a recipe in @EMI through @FTB Quests will now smoothly return you to your previous "screen" instead of throwing you back to the default inventory.
+- Added Exanimate Essence to the Twilight Lich loot data model for @HNN.
+- The @Step Crafter performance has been improved.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed the chest "lid opening" animation being stuttery/laggy under certain conditions.
+- General fixes centered around @Ender Drives, specifically data loss, crashes, etc.
+- Fixed @Lootr Chests having a different texture while being in the "opened state".
+- Fixed an issue with servers filling up the memory fast which leads to crashes.
+- Some fixes related to @The Twilight Forest.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Added 22 new quests to the @Relics chapter. <br />
+  (Note: Added all relics from the newly added addon.) <br />
+  (Did some minor chapter refactors as well.)
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (This is normal.)
+
+
+### **Current NeoForge Version**
+- 21.1.244
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: Gbergz @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/b4d0f61c-43c4-4179-87b1-0ce3f6aeb15e.webp 'Use code: Gbergz @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.67.0</h1>
 
 > ### 📖 New mods, QoL, changes, fixes & more! <br />
