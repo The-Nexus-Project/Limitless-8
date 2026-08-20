@@ -1,3 +1,65 @@
+<h1>v1.69.0</h1>
+
+> ### 🕷️ Excessive Utilities, new spider variants, ocean structures & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Excessive Utilities](https://www.curseforge.com/minecraft/mc-mods/excessive-utilities) <br />
+  (Note: Extra Utilities port.)
+- [Expanded AE](https://www.curseforge.com/minecraft/mc-mods/expanded-ae)
+- [Moog's Ocean Structures](https://www.curseforge.com/minecraft/mc-mods/mos-moogs-ocean-structures)
+- [Spider Overhaul](https://www.curseforge.com/minecraft/mc-mods/spider-overhaul)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Improved memory usage a lot by turning on @Modern Fix's "dynamic_resources" config (mixin). <br />
+  (Note: Highlighted. The change was made in v1.68.1.)
+- Removed Wildex from initial starting inventory since it's in the starter kit quest now.
+- Lowered the time it takes to successfully identify a mob with the Spyglass.
+- New worldgen structures themed around the ocean.
+- New variants & overall improvements to spiders.
+- Modified the recipe for the Angel Ring.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed "Knowledge of the Ages" enchantment not working properly or at all. <br />
+  (Thanks @Hasaku for finding out & dev @DatJaneDoe for fixing!)
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Added Spyglass & Wildex to the starting kit quest.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.244 to 21.1.248.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.248
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.68.1</h1>
 
 > ### 🚑️ Small update, hotfix. <br />
