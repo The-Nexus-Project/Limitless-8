@@ -1,3 +1,79 @@
+<h1>v1.70.0</h1>
+
+> ### 🌠 Stargate Journey, Scannable, QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AE2 Draconic Fusion Autocrafter](https://www.curseforge.com/minecraft/mc-mods/ae2-draconic-fusion-autocrafter)
+- [AE2Helpers](https://www.curseforge.com/minecraft/mc-mods/ae2helpers)
+- [Alchemistry](https://www.curseforge.com/minecraft/mc-mods/alchemistry)
+- [Better P2P](https://www.curseforge.com/minecraft/mc-mods/betterp2p)
+- [Button Fix](https://www.curseforge.com/minecraft/mc-mods/buttonfix)
+- [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)
+- [EMI Worldgen](https://www.curseforge.com/minecraft/mc-mods/jei-worldgen)
+- [More MobGriefing Options](https://www.curseforge.com/minecraft/mc-mods/more-mobgriefing-options)
+- [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
+- [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)
+- [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
+- [Super Factory Manager Retro](https://www.curseforge.com/minecraft/mc-mods/super-factory-manager-retro)
+
+
+### **Removed**
+- [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores) <br />
+  (Note: Replaced by: [EMI Worldgen](https://www.curseforge.com/minecraft/mc-mods/jei-worldgen).)
+
+
+### **Notable Changes**
+- Buffed the amount of XP you get for identifying a new mob with the Spyglass. (10 XP -> 20 XP). <br />
+  (Change: 10 XP -> 20 XP). <br />
+  (Note: Claim XP in the Wildex Bestiary.)
+- Rain and weather in general is now more "dynamic" and fancy.
+- Lowered @Synergy Blue Cup Mushroom generation chances.
+- You can now change MobGriefing on a per entity basis.
+- Improved @EMI World Gen Information tab (ores).
+- Added a few new loading screen tips.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- A crash when browsing the creative inventory menu is now fixed.
+- A widget focus issue is now fixed.
+- Some @Cable Facade crash fixes.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Replaced Wildex Bestiary with a default one so keybind works properly.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (This is normal.)
+
+
+### **Current NeoForge Version**
+- 21.1.248
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.69.0</h1>
 
 > ### 🕷️ Excessive Utilities, new spider variants, ocean structures & more! <br />
