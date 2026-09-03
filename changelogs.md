@@ -1,3 +1,69 @@
+<h1>v1.71.0</h1>
+
+> ### ⚔️ New unique weapons, swords, bows, etc. QoL. Changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Applied Cooking](https://www.curseforge.com/minecraft/mc-mods/applied-cooking)
+- [Applied Delight](https://www.curseforge.com/minecraft/mc-mods/applied-delight)
+- [Bathymetry](https://www.curseforge.com/minecraft/mc-mods/bathymetry)
+- [Enchanting Infuser x Apotheosis Patch](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-x-apotheosis-patch)
+- [Keybind Atlas](https://www.curseforge.com/minecraft/mc-mods/keybind-atlas)
+- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords) (+ [Knaves' Needs](https://www.curseforge.com/minecraft/mc-mods/knaves-needs), [Simply Bows](https://www.curseforge.com/minecraft/mc-mods/simply-bows) & [Simply More](https://www.curseforge.com/minecraft/mc-mods/simply-more).)
+
+
+### **Removed**
+- [ViewBoard](https://www.curseforge.com/minecraft/mc-mods/viewboard) <br />
+  (Reason: Causes lag.)
+
+
+### **Notable Changes**
+- Coal Dust can no longer be smelted back into Coal in a Furnace or Blast Furnace as intended.
+- Underwater terrain depth is now visualized through the water color.
+- Added support for @Apothoesis in the @Enchanting Infuser.
+- Disabled the Ground Mist particle from @Particle Rain.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed possible lag spikes when unbinding or rebinding buttons in controls under "Key Binds".
+- Fixed a few unavailable recipes that uses for Compressed Cobblestone as an ingredient.
+- Fixes related to @Colossal Chests & @Tom's Storage interaction.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (This is normal.)
+
+
+### **Current NeoForge Version**
+- 21.1.248
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.70.0</h1>
 
 > ### 🌠 Stargate Journey, Scannable, QoL, changes, fixes & more! <br />
