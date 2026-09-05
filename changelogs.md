@@ -22,7 +22,6 @@
 - A crash when loading a world with placed Vertical Slabs is now fixed. <br />
   (Note: Mixed double slabs & vertical slabs are removed from the world.)
 - Fixed "Bedrockium Ingot" being uncraftable.
-- (!) Fixes not noted are included within mod updates.
 
 
 ### **Notes**
