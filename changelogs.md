@@ -1,3 +1,51 @@
+<h1>v1.71.1</h1>
+
+> ### 🔧 Small update, fixes EMI rendering issues & vertical slab issues. <br />
+> ### ⚙️ Note that placed mixed double & vertical slabs will be gone this update.
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Vertical Slabs Compat](https://www.curseforge.com/minecraft/mc-mods/vertical-slabs-compat)
+
+
+### **Removed**
+- [DoubleSlabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs) <br />
+  (Reason: Causes crashes, rendering issues.)
+
+
+### **Notable Fixes**
+- Fixed a few unavailable recipes that uses for Compressed Cobblestone as an ingredient.
+- Fixed an EMI & Creative Menu rendering issue by removing the [@DoubleSlabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs) mod.
+- A crash when loading a world with placed Vertical Slabs is now fixed. <br />
+  (Note: Mixed double slabs & vertical slabs are removed from the world.)
+- Fixed "Bedrockium Ingot" being uncraftable.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (This is normal.)
+
+
+### **Current NeoForge Version**
+- 21.1.248
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.71.0</h1>
 
 > ### ⚔️ New unique weapons, swords, bows, etc. QoL. Changes, fixes & more! <br />
