@@ -1,3 +1,62 @@
+<h1>v1.72.0</h1>
+
+> ### ⛏️ Bedrock Ores, QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Bedrock Ores](https://www.curseforge.com/minecraft/mc-mods/bedrockores)
+- [Tom's Colossal Crafting Fix](https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-nbt-fix-jei)
+- [Tom's Simple Storage NBT Fix](https://www.curseforge.com/minecraft/mc-mods/toms-colossal-crafting-fix)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Proper @EMI support is now available for the @Crafting Station mod.
+- Clusters of Ores can now be found embedded in the bedrock.
+- Actually enabled @Quark's vertical slabs. Whoops.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Some interaction fixes between @EMI, @Colossal Chests & @Tom's Simple Storage.
+- Various issues and crashes related to the @Crafting Station is now fixed.
+- The @Patchouli guide book for @Dimensional Dungeons is now fixed.
+- Login damage protection not working properly is now fixed.
+- Server thread getting stuck on shutdown is now fixed.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.248 to 21.1.250.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.250
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.71.1</h1>
 
 > ### 🔧 Small update, fixes EMI rendering issues & vertical slab issues. <br />
