@@ -1,3 +1,59 @@
+<h1>v1.73.0</h1>
+
+> ### ⚡ New mods, QoL, fixes, changes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Curios Performance Fix](https://www.curseforge.com/minecraft/mc-mods/curios-performance-fix)
+- [Enigmatic Delicacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-delicacy)
+- [Icarus: Re-Winged](https://www.curseforge.com/minecraft/mc-mods/icarus-rewinged)
+- [Pipez Optimizer](https://www.curseforge.com/minecraft/mc-mods/pipez-optimizer)
+- [Portable Wardrobes](https://www.curseforge.com/minecraft/mc-mods/portable-wardrobes-easy-armor-swap)
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now swap armor sets easily by using @Portable Wardrobes. <br />
+  (Notes: Keybind (N) might be conflicting on existing installs.) <br />
+  (New installs will have these keybinds unbinded (quick swap, etc.)
+- Some improvements to @Curios performance.
+- Some optimizations to @Pipez logic.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.250
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.72.0</h1>
 
 > ### ⛏️ Bedrock Ores, QoL, changes, fixes & more! <br />
