@@ -1,3 +1,64 @@
+<h1>v1.75.0</h1>
+
+> ### 🛖 New Sky Villages, QoL changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Config Search](https://www.curseforge.com/minecraft/mc-mods/config-search)
+- [Integrated Patches](https://www.curseforge.com/minecraft/mc-mods/integrated-patches)
+- [Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)
+- [Sky Village-Islands](https://www.curseforge.com/minecraft/mc-mods/sky-village-islands)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- You can now search for specific config strings in the "Mod Configs" GUI. <br />
+  (How: Type a word, jump straight to the config if anything matches.)
+- New types of floating island sky villages can now be generated.
+- Improved resourcepack / datapack zip file loading times.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- World gen fixes centered around the @Integrated API mod.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- There will be a missing mods warning when entering existing singleplayer worlds this update. <br />
+  (This is normal. The Mod ID of a mod changed.)
+
+
+### **Current NeoForge Version**
+- 21.1.250
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.74.0</h1>
 
 > ### 🔮 More Relics, changes, fixes & more! <br />
