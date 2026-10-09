@@ -1,3 +1,57 @@
+<h1>v1.76.0</h1>
+
+> ### ⚡ Changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [TMRV Updated](https://www.curseforge.com/minecraft/mc-mods/tmrv-updated)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Turned off "fog particles" after rain & in wet biomes.
+- Turned off the "Auto Spark Profiling" feature.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- A crash/disconnect issue tied to @AE2 "Crafting Status" is now fixed.
+- Fixed Bank & Tank links not working properly when used in recipes.
+- Fixed a few instances of log spam.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.250 to 21.1.256.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.256
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.75.0</h1>
 
 > ### 🛖 New Sky Villages, QoL changes, fixes & more! <br />
