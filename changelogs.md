@@ -43,12 +43,12 @@
 
 
 ### **Updated**
-- Updated NeoForge from version 21.1.256 to 21.1.262.
+- Updated NeoForge from version 21.1.256 to 21.1.259.
 - (!) All mods that could be updated have been updated.
 
 
 ### **Current NeoForge Version**
-- 21.1.262
+- 21.1.259
 
 
 ### **Reporting Issues**
