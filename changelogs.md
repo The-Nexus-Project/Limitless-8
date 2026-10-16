@@ -1,3 +1,68 @@
+<h1>v1.77.0</h1>
+
+> ### 🍀 New mods. Plenty of QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Collapsible Groups (EMI)](https://www.curseforge.com/minecraft/mc-mods/collapsible-groups)
+- [EMI QuickIndex](https://www.curseforge.com/minecraft/mc-mods/emi-quickindex)
+- [GeckoLib Animation Optimizer](https://www.curseforge.com/minecraft/mc-mods/geckolib-animation-optimizer)
+- [GeckolibBetterFPS](https://www.curseforge.com/minecraft/mc-mods/geckolibbetterfps)
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)
+- [Smooth Loading Screens](https://www.curseforge.com/minecraft/mc-mods/smooth-loading-screens)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Improved @EMI's recipe lookups and parallel search indexing for better performance and loading times.
+- Some entries in @EMI are now in "collapsible groups" for a cleaner, easier-to-navigate ingredient list. <br />
+  (Note: Custom groups have already been made and even more can be made if needed.)
+- Reduced startup freezes somwhat and improved the "Create World loading screen" responsiveness.
+- Performance improvements centered around the HUD & @GeckoLib mod.
+- More @Polymorph supprt for various crafting guis.
+- New simple "preparing world for creation" screen.
+- New "Tag Localizations" for a lot of mods.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- The @Easy Villagers "trade cycle button" not showing on servers is now fixed.
+- Fixed a "server config error" when stopping servers.
+- Fixed one of many memory leaks.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.256 to 21.1.262.
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.262
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.76.0</h1>
 
 > ### ⚡ Changes, fixes & more! <br />
