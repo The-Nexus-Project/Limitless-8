@@ -1,3 +1,61 @@
+<h1>v1.78.1</h1>
+
+> ### 🛸 Create Aeronautics & New Age, QoL, changes, fixes + more! <br />
+> ### 🐛 Note: 1.78.1 is a hotfix for a crash when opening Loot Crates. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation)
+- [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics)
+- [Create: New Age](https://www.curseforge.com/minecraft/mc-mods/create-new-age)
+- [Mekanism: Engineering](https://www.curseforge.com/minecraft/mc-mods/mekanism-engineering)
+
+
+### **Removed**
+- No mods removed.
+
+
+### **Notable Changes**
+- Reverted the new "simple preparing world for creation screen" change from last update.
+- Removed the already combined [@Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) recipe due to some issues.
+- New fancy & smooth chat visuals.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Crashes related to the [@Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) mod is now fixed.
+- 🐛 (v1.78.1) Fixes a crash when opening Loot Crates.
+- Some minor fixes to worldgen structures.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.259
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.78.0</h1>
 
 > ### 🛸 Create Aeronautics & New Age, QoL, changes, fixes + more! <br />
