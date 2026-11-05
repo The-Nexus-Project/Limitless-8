@@ -1,3 +1,75 @@
+<h1>v1.79.0</h1>
+
+> ### 🪄 New Relics, new mods, few mods removed, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Functional Chemical](https://www.curseforge.com/minecraft/mc-mods/functional-chemical)
+- [Relics: Thirteen Flames](https://www.curseforge.com/minecraft/mc-mods/relics-thirteen-flames)
+- [StructureOverlapless](https://www.curseforge.com/minecraft/mc-mods/structureoverlapless)
+- [Village Artifacts](https://www.curseforge.com/minecraft/mc-mods/villager-tools)
+
+
+### **Removed**
+- [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean)
+- [Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
+- [TxniLib](https://www.curseforge.com/minecraft/mc-mods/txnilib) <br />
+  (Note: All above removed due to [@TxniLib](https://www.curseforge.com/minecraft/mc-mods/txnilib) not working on latest NeoForge versions.)
+- [No Structure Overlap](https://www.curseforge.com/minecraft/mc-mods/no-structure-overlap)
+
+
+### **Notable Changes**
+- Disabled the [@Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) "scale_guiscreens" config by default to prevent some [@Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) issues.
+- [@EMI](https://www.curseforge.com/minecraft/mc-mods/emi) is no longer hidden by default when search is left blank.
+- Fixes to possible structure overlap in world generation.
+- [@Cataclysm Spellbooks](https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks) now respects chunk claims.
+- Improved loading times a little bit.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixed a possible server freeze issue.
+- Fixed a possible memory leak.
+- Fixes related to [@EMI](https://www.curseforge.com/minecraft/mc-mods/emi).
+- Fixed some log spam.
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- Updated the "PT_BR" localization file. <br />
+  (Courtesy of `@PrincessStellar (@Iza)`!
+
+
+### **Updated**
+- Updated NeoForge from version 21.1.259 to 21.1.265.
+- (!) All mods that could be updated have been updated.
+
+
+### **Notes**
+- Expect a lot of "missing mods" this update when entering SP worlds due to the removal of a library that JiJ'd a lot of other libraries. <br />
+  (Note that this is normal and your world is fine.) <br />
+  (Example: [@Imgur](https://imgur.com/a/VdJNXYD).)
+
+
+### **Current NeoForge Version**
+- 21.1.265
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.78.1</h1>
 
 > ### 🛸 Create Aeronautics & New Age, QoL, changes, fixes + more! <br />
