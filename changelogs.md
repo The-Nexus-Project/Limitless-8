@@ -1,3 +1,62 @@
+<h1>v1.80.0</h1>
+
+> ### 🚂 Loconautics, QoL, changes, fixes & more! <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Create: Loconautics](https://www.curseforge.com/minecraft/mc-mods/createloconautics)
+- [Curios Backpack Slot](https://www.curseforge.com/minecraft/mc-mods/curios-backpack-slot)
+- [Delight o' Flight](https://www.curseforge.com/minecraft/mc-mods/delighto-flight)
+- [Fastvancements](https://www.curseforge.com/minecraft/mc-mods/fastvancements-forked)
+- [Waystones: Sable](https://www.curseforge.com/minecraft/mc-mods/waystones-sable)
+
+
+### **Removed**
+- [DynamiDucts](https://www.curseforge.com/minecraft/mc-mods/dynamiducts) <br />
+  (Why?: Mod removed from CurseForge.)
+
+
+### **Notable Changes**
+- Added compatibility betwen [@Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) and [@Sable](https://www.curseforge.com/minecraft/mc-mods/sable) which fixes some stuff including client synchronization.
+- Hid the [@Collapsible Groups](https://www.curseforge.com/minecraft/mc-mods/collapsible-groups) button outside indev environment.
+- Added a dedicated backpack slot to the [@Curios](https://www.curseforge.com/minecraft/mc-mods/curios) menu.
+- Various optimizations centered around advancements.
+- Removed a few invalid loading screen tips.
+- (!) Many changes not noted are included within mod updates.
+
+
+### **Notable Fixes**
+- Fixes to client synchronization between [@Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) and [@Sable](https://www.curseforge.com/minecraft/mc-mods/sable).
+- (!) Fixes not noted are included within mod updates.
+
+
+### **Quests**
+- No changes.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+
+
+### **Current NeoForge Version**
+- 21.1.265
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-8/issues) !
+
+
+
+---------------
+
+
+[![Use code: TNP @ checkout & get 25% off any game servers on your first month!](https://www.bisecthosting.com/partners/custom-banners/28b3a483-9e0f-4145-b4c2-1a1c62aa58f2.webp 'Use code: TNP @ checkout & get 25% off any game servers on your first month!')](https://www.bisecthosting.com/tnp?r=GitHub)
+
+---------------
+
 <h1>v1.79.0</h1>
 
 > ### 🪄 New Relics, new mods, few mods removed, changes, fixes & more! <br />
